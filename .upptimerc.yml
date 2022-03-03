@@ -5,7 +5,7 @@ repo: caffeine # The name of this repository
 sites:
   - name: Postfix
     url: https://www.google.com
-    maxResponseTime: 500
+    maxResponseTime: 1
   - name: Dovecot
     url: https://en.wikipedia.org
     maxResponseTime: 400
@@ -13,7 +13,7 @@ sites:
     url: https://news.ycombinator.com
     maxResponseTime: 300
   - name: ClamAV
-    url: https://thissitedoesnotexist.koj.co
+    url: https://spamassassin.apache.org/
     maxResponseTime: 10
   - name: Nginx Clusters
     url: https://www.google.com
