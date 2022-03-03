@@ -18,11 +18,11 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /caffeine
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptimes
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Caffine - An Uptime Monitor
+  introTitle: "**Caffeine** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is where you can find very pretty graphs and stats about our server clusters and workers. Ask us for your site status page and we will whip one up for you.
   navbar:
-    - title: Status
+    - title: Caffeine
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
