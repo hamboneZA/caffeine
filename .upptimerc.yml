@@ -23,16 +23,16 @@ status-website:
   baseUrl: /caffeine
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Caffeine - An Uptime Monitor
-  introTitle: "**Caffeine** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is where you can find very pretty graphs and stats about our server clusters and workers. Ask us for your site status page and we will whip one up for you.
+  introTitle: "**Caffeine** keeps us going, so your application keeps on ticking."
+  introMessage: Ask us for your very own site status page and we will whip one up for you.
   navbar:
-    - title: Common Services
+    - title: Common
       href: /
-    - title: Data Centers
+    - title: Webservers
       href: /
-    - title: Mail
+    - title: APIs
       href: /
-    - title: GitHub
+    - title: Databases
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
