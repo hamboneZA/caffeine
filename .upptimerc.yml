@@ -3,15 +3,18 @@ owner: hamboneza # Your GitHub organization or username, where this repository l
 repo: caffeine # The name of this repository
 
 sites:
-  - name: [WEBSERVER] Baobab
-    url: https://elearning.arbitrators.co.za
+  - name: ZA - MAIL SERVER
+    url: https://www.google.com
     maxResponseTime: 5000
-  - name: [SMTP-RELAY] Haak-en-steek
-    url: https://mail.moodleist.com
-    maxResponseTime: 100
-    - name: [IMAP] Fever Tree
-    url: https://mail.moodleist.com
-    maxResponseTime: 5000
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+    maxResponseTime: 4000
+  - name: Hacker News
+    url: https://news.ycombinator.com
+    maxResponseTime: 3000
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+    maxResponseTime: 10
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
