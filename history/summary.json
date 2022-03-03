@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "98.73%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 73,
     "timeDay": 73,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-03-03": 0
+      "2022-03-03": 2
     }
   },
   {
@@ -60,17 +60,17 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 9,
-    "timeDay": 9,
-    "timeWeek": 9,
-    "timeMonth": 9,
-    "timeYear": 9,
+    "status": "degraded",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
+    "time": 30,
+    "timeDay": 30,
+    "timeWeek": 30,
+    "timeMonth": 30,
+    "timeYear": 30,
     "dailyMinutesDown": {
       "2022-03-03": 162
     }
