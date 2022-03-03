@@ -6,8 +6,11 @@ sites:
 - name: [WEBSERVER] Baobab
   url: https://elearning.arbitrators.co.za
   maxResponseTime: 5000
-- name: [MAIL-RELAY] Haak-en-steek
-  url: https://example.com
+- name: [SMTP-RELAY] Haak-en-steek
+  url: https://mail.moodleist.com
+  maxResponseTime: 5000
+  - name: [IMAP] Fever Tree
+  url: https://mail.moodleist.com
   maxResponseTime: 5000
 
 status-website:
