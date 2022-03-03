@@ -12,7 +12,7 @@ sites:
   - name: MaxMind
     url: https://news.ycombinator.com
     maxResponseTime: 3000
-  - name: Russian Sanction
+  - name: Russia
     url: https://thissitedoesnotexist.koj.co
     maxResponseTime: 10
 
