@@ -8,7 +8,7 @@ sites:
   maxResponseTime: 5000
 - name: [SMTP-RELAY] Haak-en-steek
   url: https://mail.moodleist.com
-  maxResponseTime: 5000
+  maxResponseTime: 100
   - name: [IMAP] Fever Tree
   url: https://mail.moodleist.com
   maxResponseTime: 5000
