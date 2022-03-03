@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "97.41%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.41%",
+    "uptime": "97.71%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
     "time": 73,
     "timeDay": 73,
     "timeWeek": 73,
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "dovecot",
     "status": "up",
-    "uptime": "22.94%",
-    "uptimeDay": "22.94%",
-    "uptimeWeek": "22.94%",
-    "uptimeMonth": "22.94%",
-    "uptimeYear": "22.94%",
+    "uptime": "20.35%",
+    "uptimeDay": "20.35%",
+    "uptimeWeek": "20.35%",
+    "uptimeMonth": "20.35%",
+    "uptimeYear": "20.35%",
     "time": 238,
     "timeDay": 238,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2022-03-03": 740
+      "2022-03-03": 862
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "76.61%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "76.61%",
-    "uptimeMonth": "76.61%",
-    "uptimeYear": "76.61%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "status": "degraded",
+    "uptime": "79.79%",
+    "uptimeDay": "79.79%",
+    "uptimeWeek": "79.79%",
+    "uptimeMonth": "79.79%",
+    "uptimeYear": "79.79%",
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-03-03": 224
+      "2022-03-03": 218
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "my-sql-servers",
     "status": "up",
-    "uptime": "22.98%",
-    "uptimeDay": "22.98%",
-    "uptimeWeek": "22.98%",
-    "uptimeMonth": "22.98%",
-    "uptimeYear": "22.98%",
+    "uptime": "20.39%",
+    "uptimeDay": "20.39%",
+    "uptimeWeek": "20.39%",
+    "uptimeMonth": "20.39%",
+    "uptimeYear": "20.39%",
     "time": 52,
     "timeDay": 52,
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-03-03": 739
+      "2022-03-03": 861
     }
   },
   {
