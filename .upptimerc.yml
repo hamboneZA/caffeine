@@ -3,15 +3,15 @@ owner: hamboneza # Your GitHub organization or username, where this repository l
 repo: caffeine # The name of this repository
 
 sites:
-  - name: Task Queue
+  - name: Scheduled Tasks
     url: https://www.google.com
-    maxResponseTime: 5000
-  - name: CI Streak
+    maxResponseTime: 500
+  - name: CI (Nightly)
     url: https://en.wikipedia.org
-    maxResponseTime: 4000
-  - name: MaxMind
+    maxResponseTime: 400
+  - name: Behat Runtime
     url: https://news.ycombinator.com
-    maxResponseTime: 3000
+    maxResponseTime: 300
   - name: Russia
     url: https://thissitedoesnotexist.koj.co
     maxResponseTime: 10
@@ -20,15 +20,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: night
   baseUrl: /caffeine
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Caffeine - An Uptime Monitor
   introTitle: "**Caffeine** keeps us going, so your application keeps on ticking."
   introMessage: Ask us for your very own site status page and we will whip one up for you.
   navbar:
-    - title: Common
+    - title: Workers
       href: /
-    - title: Webservers
+    - title: Applications
       href: /
     - title: APIs
       href: /
