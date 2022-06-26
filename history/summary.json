@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 75,
-    "timeDay": 69,
-    "timeWeek": 86,
+    "timeDay": 0,
+    "timeWeek": 88,
     "timeMonth": 78,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "95.33%",
     "time": 182,
-    "timeDay": 198,
-    "timeWeek": 158,
-    "timeMonth": 187,
+    "timeDay": 0,
+    "timeWeek": 152,
+    "timeMonth": 192,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2022-06-23": 23,
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 122,
-    "timeWeek": 150,
-    "timeMonth": 156,
+    "timeDay": 0,
+    "timeWeek": 134,
+    "timeMonth": 157,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -68,15 +68,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "degraded",
-    "uptime": "98.25%",
-    "uptimeDay": "97.23%",
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "91.06%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "98.25%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "98.22%",
     "time": 103,
-    "timeDay": 155,
-    "timeWeek": 115,
+    "timeDay": 151,
+    "timeWeek": 113,
     "timeMonth": 116,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -99,7 +99,8 @@
       "2022-06-10": 160,
       "2022-06-09": 131,
       "2022-06-08": 164,
-      "2022-06-07": 194
+      "2022-06-07": 244,
+      "2022-06-06": 3
     }
   },
   {
@@ -115,8 +116,8 @@
     "uptimeYear": "100.00%",
     "time": 49,
     "timeDay": 0,
-    "timeWeek": 55,
-    "timeMonth": 49,
+    "timeWeek": 56,
+    "timeMonth": 48,
     "timeYear": 49,
     "dailyMinutesDown": {}
   },
@@ -134,7 +135,7 @@
     "time": 49,
     "timeDay": 0,
     "timeWeek": 26,
-    "timeMonth": 43,
+    "timeMonth": 44,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2022-06-23": 23,
@@ -159,8 +160,8 @@
     "uptimeYear": "100.00%",
     "time": 91,
     "timeDay": 0,
-    "timeWeek": 56,
-    "timeMonth": 79,
+    "timeWeek": 53,
+    "timeMonth": 81,
     "timeYear": 91,
     "dailyMinutesDown": {}
   }
