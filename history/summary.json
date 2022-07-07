@@ -69,18 +69,18 @@
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "94.93%",
-    "uptimeWeek": "87.63%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.28%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "88.18%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "98.28%",
     "time": 103,
     "timeDay": 94,
-    "timeWeek": 102,
-    "timeMonth": 107,
+    "timeWeek": 101,
+    "timeMonth": 106,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-07-06": 73,
+      "2022-07-06": 67,
       "2022-07-05": 283,
       "2022-07-04": 44,
       "2022-07-03": 196,
@@ -99,7 +99,7 @@
       "2022-06-20": 108,
       "2022-06-19": 71,
       "2022-06-18": 237,
-      "2022-06-17": 19
+      "2022-06-17": 42
     }
   },
   {
