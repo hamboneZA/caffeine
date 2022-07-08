@@ -50,19 +50,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "imap",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "65.40%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "64.09%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.72%",
     "time": 155,
-    "timeDay": 168,
-    "timeWeek": 152,
+    "timeDay": 156,
+    "timeWeek": 150,
     "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-07-08": 498
+      "2022-07-08": 517
     }
   },
   {
@@ -153,19 +153,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "postgre-sql",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "65.45%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "64.16%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.72%",
     "time": 91,
-    "timeDay": 47,
-    "timeWeek": 89,
+    "timeDay": 66,
+    "timeWeek": 91,
     "timeMonth": 84,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-07-08": 498
+      "2022-07-08": 516
     }
   }
 ]
