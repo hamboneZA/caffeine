@@ -50,10 +50,10 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "imap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
@@ -61,7 +61,9 @@
     "timeWeek": 135,
     "timeMonth": 147,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 1
+    }
   },
   {
     "name": "ClamAV",
@@ -70,12 +72,12 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "80.48%",
-    "uptimeWeek": "88.35%",
+    "uptimeDay": "84.81%",
+    "uptimeWeek": "89.07%",
     "uptimeMonth": "92.82%",
     "uptimeYear": "98.28%",
     "time": 103,
-    "timeDay": 108,
+    "timeDay": 86,
     "timeWeek": 98,
     "timeMonth": 107,
     "timeYear": 103,
@@ -152,9 +154,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,6 +165,8 @@
     "timeWeek": 90,
     "timeMonth": 84,
     "timeYear": 91,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   }
 ]
