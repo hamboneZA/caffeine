@@ -51,18 +51,18 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "imap",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.90%",
+    "uptimeDay": "87.85%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.90%",
     "time": 155,
     "timeDay": 168,
     "timeWeek": 152,
     "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-07-08": 74
+      "2022-07-08": 175
     }
   },
   {
@@ -70,19 +70,19 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "83.74%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "98.28%",
+    "status": "degraded",
+    "uptime": "98.30%",
+    "uptimeDay": "84.92%",
+    "uptimeWeek": "88.99%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "98.30%",
     "time": 103,
-    "timeDay": 100,
-    "timeWeek": 99,
-    "timeMonth": 108,
+    "timeDay": 88,
+    "timeWeek": 100,
+    "timeMonth": 107,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-07-08": 129,
+      "2022-07-08": 130,
       "2022-07-07": 200,
       "2022-07-06": 67,
       "2022-07-05": 283,
@@ -101,7 +101,7 @@
       "2022-06-22": 58,
       "2022-06-21": 110,
       "2022-06-20": 108,
-      "2022-06-19": 55
+      "2022-06-19": 30
     }
   },
   {
@@ -154,18 +154,18 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "postgre-sql",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.91%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.91%",
     "time": 91,
     "timeDay": 47,
     "timeWeek": 89,
     "timeMonth": 84,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-07-08": 73
+      "2022-07-08": 174
     }
   }
 ]
