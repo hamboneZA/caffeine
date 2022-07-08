@@ -51,18 +51,18 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "imap",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "69.12%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "68.65%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.75%",
     "time": 155,
     "timeDay": 168,
     "timeWeek": 152,
     "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-07-08": 444
+      "2022-07-08": 451
     }
   },
   {
@@ -70,19 +70,19 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "89.78%",
-    "uptimeWeek": "89.45%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "89.34%",
+    "uptimeWeek": "89.38%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "98.30%",
     "time": 103,
-    "timeDay": 101,
+    "timeDay": 97,
     "timeWeek": 100,
     "timeMonth": 107,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-07-08": 130,
+      "2022-07-08": 136,
       "2022-07-07": 200,
       "2022-07-06": 67,
       "2022-07-05": 283,
@@ -154,18 +154,18 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "postgre-sql",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "69.17%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "68.70%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.75%",
     "time": 91,
     "timeDay": 47,
     "timeWeek": 89,
     "timeMonth": 84,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-07-08": 444
+      "2022-07-08": 451
     }
   }
 ]
