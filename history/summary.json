@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 78,
-    "timeDay": 66,
-    "timeWeek": 114,
+    "timeDay": 65,
+    "timeWeek": 113,
     "timeMonth": 91,
     "timeYear": 78,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "95.83%",
-    "time": 180,
-    "timeDay": 202,
-    "timeWeek": 151,
-    "timeMonth": 160,
-    "timeYear": 180,
+    "time": 179,
+    "timeDay": 62,
+    "timeWeek": 149,
+    "timeMonth": 152,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2022-06-23": 23,
       "2022-03-08": 1073,
@@ -58,8 +58,8 @@
     "uptimeYear": "99.72%",
     "time": 155,
     "timeDay": 163,
-    "timeWeek": 155,
-    "timeMonth": 147,
+    "timeWeek": 162,
+    "timeMonth": 151,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2022-07-08": 517
@@ -70,14 +70,14 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "98.31%",
+    "status": "degraded",
+    "uptime": "98.34%",
     "uptimeDay": "82.23%",
     "uptimeWeek": "88.55%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "98.34%",
     "time": 103,
-    "timeDay": 104,
+    "timeDay": 93,
     "timeWeek": 104,
     "timeMonth": 108,
     "timeYear": 103,
@@ -99,7 +99,7 @@
       "2022-06-26": 39,
       "2022-06-25": 154,
       "2022-06-24": 230,
-      "2022-06-23": 117
+      "2022-06-23": 55
     }
   },
   {
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 49,
-    "timeWeek": 59,
-    "timeMonth": 54,
+    "timeDay": 45,
+    "timeWeek": 58,
+    "timeMonth": 55,
     "timeYear": 50,
     "dailyMinutesDown": {}
   },
@@ -132,8 +132,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "95.83%",
     "time": 48,
-    "timeDay": 61,
-    "timeWeek": 39,
+    "timeDay": 58,
+    "timeWeek": 45,
     "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
@@ -157,11 +157,11 @@
     "uptimeWeek": "94.88%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.72%",
-    "time": 91,
-    "timeDay": 162,
-    "timeWeek": 92,
-    "timeMonth": 86,
-    "timeYear": 91,
+    "time": 92,
+    "timeDay": 163,
+    "timeWeek": 107,
+    "timeMonth": 89,
+    "timeYear": 92,
     "dailyMinutesDown": {
       "2022-07-08": 516
     }
