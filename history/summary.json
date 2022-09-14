@@ -71,16 +71,16 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://favicons.githubusercontent.com/spamassassin.apache.org",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "89.72%",
+    "status": "degraded",
+    "uptime": "98.75%",
+    "uptimeDay": "89.71%",
     "uptimeWeek": "83.83%",
-    "uptimeMonth": "91.91%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "91.95%",
+    "uptimeYear": "98.75%",
     "time": 109,
-    "timeDay": 109,
+    "timeDay": 107,
     "timeWeek": 135,
-    "timeMonth": 125,
+    "timeMonth": 124,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2022-09-14": 42,
@@ -98,7 +98,7 @@
       "2022-09-02": 423,
       "2022-09-01": 288,
       "2022-08-31": 65,
-      "2022-08-30": 143
+      "2022-08-30": 122
     }
   },
   {
