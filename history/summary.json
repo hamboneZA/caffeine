@@ -13,7 +13,7 @@
     "time": 95,
     "timeDay": 93,
     "timeWeek": 95,
-    "timeMonth": 100,
+    "timeMonth": 99,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2022-03-03": 25
@@ -33,7 +33,7 @@
     "time": 185,
     "timeDay": 356,
     "timeWeek": 174,
-    "timeMonth": 258,
+    "timeMonth": 259,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2022-09-29": 19,
@@ -60,7 +60,7 @@
     "time": 170,
     "timeDay": 279,
     "timeWeek": 167,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2022-07-28": 33,
@@ -72,15 +72,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "82.54%",
+    "status": "degraded",
+    "uptime": "98.64%",
+    "uptimeDay": "85.81%",
     "uptimeWeek": "78.45%",
-    "uptimeMonth": "90.07%",
-    "uptimeYear": "98.62%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "98.64%",
     "time": 112,
-    "timeDay": 204,
-    "timeWeek": 148,
+    "timeDay": 183,
+    "timeWeek": 149,
     "timeMonth": 137,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
       "2022-09-26": 331,
       "2022-09-25": 321,
       "2022-09-24": 217,
-      "2022-09-23": 143
+      "2022-09-23": 73
     }
   },
   {
@@ -115,7 +115,7 @@
     "time": 58,
     "timeDay": 49,
     "timeWeek": 62,
-    "timeMonth": 84,
+    "timeMonth": 85,
     "timeYear": 58,
     "dailyMinutesDown": {
       "2022-09-20": 30
@@ -134,8 +134,8 @@
     "uptimeYear": "97.53%",
     "time": 47,
     "timeDay": 25,
-    "timeWeek": 29,
-    "timeMonth": 41,
+    "timeWeek": 32,
+    "timeMonth": 39,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2022-06-23": 23,
@@ -160,8 +160,8 @@
     "uptimeYear": "99.83%",
     "time": 125,
     "timeDay": 102,
-    "timeWeek": 91,
-    "timeMonth": 130,
+    "timeWeek": 100,
+    "timeMonth": 128,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2022-07-28": 33,
