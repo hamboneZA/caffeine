@@ -52,18 +52,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 174,
-    "timeDay": 123,
-    "timeWeek": 114,
-    "timeMonth": 221,
+    "timeDay": 212,
+    "timeWeek": 137,
+    "timeMonth": 223,
     "timeYear": 174,
     "dailyMinutesDown": {
+      "2022-12-16": 0,
       "2022-07-28": 33,
       "2022-07-08": 517
     }
@@ -75,9 +76,9 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "86.41%",
-    "uptimeWeek": "88.23%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "86.82%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "93.32%",
     "uptimeYear": "99.30%",
     "time": 114,
     "timeDay": 84,
@@ -85,7 +86,7 @@
     "timeMonth": 113,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2022-12-16": 171,
+      "2022-12-16": 165,
       "2022-12-15": 188,
       "2022-12-14": 88,
       "2022-12-13": 233,
@@ -102,7 +103,8 @@
       "2022-12-02": 145,
       "2022-12-01": 200,
       "2022-11-30": 173,
-      "2022-11-29": 228
+      "2022-11-29": 228,
+      "2022-11-28": 27
     }
   },
   {
@@ -156,18 +158,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 129,
-    "timeDay": 184,
-    "timeWeek": 171,
-    "timeMonth": 171,
+    "timeDay": 123,
+    "timeWeek": 157,
+    "timeMonth": 167,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2022-12-16": 1,
       "2022-07-28": 33,
       "2022-07-08": 516
     }
