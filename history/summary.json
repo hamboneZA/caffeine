@@ -75,17 +75,17 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "81.88%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.35%",
     "time": 114,
-    "timeDay": 104,
+    "timeDay": 96,
     "timeWeek": 115,
-    "timeMonth": 115,
+    "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-01-13": 257,
+      "2023-01-13": 251,
       "2023-01-12": 152,
       "2023-01-11": 98,
       "2023-01-10": 94,
@@ -103,7 +103,7 @@
       "2022-12-28": 268,
       "2022-12-27": 140,
       "2022-12-26": 155,
-      "2022-12-25": 22
+      "2022-12-25": 47
     }
   },
   {
