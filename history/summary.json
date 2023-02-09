@@ -54,9 +54,9 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 193,
     "timeDay": 223,
@@ -64,7 +64,6 @@
     "timeMonth": 367,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-02-09": 8,
       "2022-07-28": 33,
       "2022-07-08": 517
     }
@@ -74,15 +73,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.38%",
-    "uptimeDay": "93.93%",
+    "uptimeDay": "93.91%",
     "uptimeWeek": "87.89%",
-    "uptimeMonth": "92.99%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.38%",
     "time": 115,
-    "timeDay": 129,
-    "timeWeek": 136,
+    "timeDay": 128,
+    "timeWeek": 134,
     "timeMonth": 123,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -107,7 +106,7 @@
       "2023-01-22": 73,
       "2023-01-21": 42,
       "2023-01-20": 68,
-      "2023-01-19": 35
+      "2023-01-19": 19
     }
   },
   {
@@ -136,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "my-sql-servers",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 46,
     "timeDay": 70,
     "timeWeek": 46,
@@ -163,9 +162,9 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
     "time": 133,
     "timeDay": 114,
@@ -173,7 +172,6 @@
     "timeMonth": 175,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-02-09": 8,
       "2023-01-25": 26,
       "2022-07-28": 33,
       "2022-07-08": 516
