@@ -13,7 +13,7 @@
     "time": 99,
     "timeDay": 105,
     "timeWeek": 95,
-    "timeMonth": 95,
+    "timeMonth": 98,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2022-03-03": 25
@@ -33,7 +33,7 @@
     "time": 178,
     "timeDay": 370,
     "timeWeek": 125,
-    "timeMonth": 167,
+    "timeMonth": 164,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2022-10-30": 16,
@@ -75,17 +75,17 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "89.48%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "93.79%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 114,
-    "timeDay": 106,
+    "timeDay": 109,
     "timeWeek": 100,
-    "timeMonth": 113,
+    "timeMonth": 110,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-02-28": 148,
+      "2023-02-28": 136,
       "2023-02-27": 160,
       "2023-02-26": 165,
       "2023-02-25": 124,
@@ -102,7 +102,7 @@
       "2023-02-14": 214,
       "2023-02-13": 247,
       "2023-02-12": 168,
-      "2023-02-11": 133
+      "2023-02-11": 162
     }
   },
   {
@@ -139,7 +139,7 @@
     "time": 46,
     "timeDay": 115,
     "timeWeek": 29,
-    "timeMonth": 42,
+    "timeMonth": 41,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2022-06-23": 23,
@@ -165,7 +165,7 @@
     "time": 132,
     "timeDay": 182,
     "timeWeek": 78,
-    "timeMonth": 116,
+    "timeMonth": 111,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2023-01-25": 26,
