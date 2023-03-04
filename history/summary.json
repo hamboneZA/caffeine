@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.71%",
     "time": 178,
     "timeDay": 30,
     "timeWeek": 112,
@@ -40,8 +40,7 @@
       "2022-03-08": 1073,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
-      "2022-03-05": 1440,
-      "2022-03-04": 1440
+      "2022-03-05": 1440
     }
   },
   {
@@ -71,18 +70,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "99.47%",
-    "uptimeDay": "81.89%",
-    "uptimeWeek": "88.15%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.46%",
+    "uptimeDay": "75.00%",
+    "uptimeWeek": "87.73%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "99.45%",
     "time": 114,
     "timeDay": 114,
-    "timeWeek": 104,
+    "timeWeek": 105,
     "timeMonth": 104,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-03-03": 260,
+      "2023-03-04": 97,
+      "2023-03-03": 262,
       "2023-03-02": 171,
       "2023-03-01": 175,
       "2023-02-28": 136,
@@ -132,7 +132,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.71%",
     "time": 46,
     "timeDay": 12,
     "timeWeek": 53,
@@ -143,8 +143,7 @@
       "2022-03-08": 1073,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
-      "2022-03-05": 1440,
-      "2022-03-04": 1440
+      "2022-03-05": 1440
     }
   },
   {
