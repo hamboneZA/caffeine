@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "dovecot",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -65,15 +65,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "88.72%",
-    "uptimeWeek": "91.47%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "93.32%",
     "uptimeYear": "99.44%",
     "time": 113,
-    "timeDay": 105,
-    "timeWeek": 97,
+    "timeDay": 103,
+    "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
       "2023-02-26": 165,
       "2023-02-25": 124,
       "2023-02-24": 119,
-      "2023-02-23": 90
+      "2023-02-23": 72
     }
   },
   {
