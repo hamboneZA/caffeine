@@ -66,11 +66,11 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "88.54%",
-    "uptimeMonth": "93.47%",
+    "status": "degraded",
+    "uptime": "99.61%",
+    "uptimeDay": "87.04%",
+    "uptimeWeek": "88.53%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 103,
     "timeDay": 63,
@@ -97,7 +97,7 @@
       "2023-07-01": 100,
       "2023-06-30": 192,
       "2023-06-29": 254,
-      "2023-06-28": 99
+      "2023-06-28": 65
     }
   },
   {
