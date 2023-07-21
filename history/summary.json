@@ -67,10 +67,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "91.02%",
-    "uptimeMonth": "93.94%",
+    "uptime": "99.63%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "91.08%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 103,
     "timeDay": 101,
@@ -78,7 +78,7 @@
     "timeMonth": 85,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-07-21": 104,
+      "2023-07-21": 98,
       "2023-07-20": 112,
       "2023-07-19": 113,
       "2023-07-18": 110,
@@ -97,7 +97,7 @@
       "2023-07-05": 107,
       "2023-07-04": 158,
       "2023-07-03": 110,
-      "2023-07-02": 168
+      "2023-07-02": 188
     }
   },
   {
@@ -105,18 +105,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "nginx-clusters",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 63,
-    "timeDay": 66,
-    "timeWeek": 89,
-    "timeMonth": 68,
+    "timeDay": 156,
+    "timeWeek": 105,
+    "timeMonth": 73,
     "timeYear": 68,
     "dailyMinutesDown": {
+      "2023-07-21": 1,
       "2022-09-20": 30
     }
   },
