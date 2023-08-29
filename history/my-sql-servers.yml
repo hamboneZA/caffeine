@@ -1,7 +1,7 @@
 url: https://en.wikipedia.org
-status: degraded
+status: up
 code: 200
-responseTime: 10102
-lastUpdated: 2023-08-29T11:36:22.334Z
+responseTime: 42
+lastUpdated: 2023-08-29T11:41:42.637Z
 startTime: 2022-03-03T04:45:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
