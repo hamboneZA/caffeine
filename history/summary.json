@@ -22,18 +22,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "dovecot",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 172,
-    "timeDay": 176,
-    "timeWeek": 173,
-    "timeMonth": 142,
-    "timeYear": 170,
+    "time": 188,
+    "timeDay": 3956,
+    "timeWeek": 1118,
+    "timeMonth": 380,
+    "timeYear": 191,
     "dailyMinutesDown": {
+      "2023-08-29": 0,
       "2022-10-30": 16,
       "2022-09-29": 19
     }
@@ -67,17 +68,17 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "87.34%",
-    "uptimeWeek": "89.83%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "87.79%",
+    "uptimeWeek": "89.89%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "99.49%",
     "time": 100,
     "timeDay": 91,
     "timeWeek": 87,
     "timeMonth": 90,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-08-29": 82,
+      "2023-08-29": 75,
       "2023-08-28": 177,
       "2023-08-27": 67,
       "2023-08-26": 104,
@@ -96,7 +97,7 @@
       "2023-08-13": 65,
       "2023-08-12": 39,
       "2023-08-11": 188,
-      "2023-08-10": 15
+      "2023-08-10": 30
     }
   },
   {
@@ -124,18 +125,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "my-sql-servers",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 30,
-    "timeWeek": 39,
-    "timeMonth": 36,
-    "timeYear": 41,
-    "dailyMinutesDown": {}
+    "time": 63,
+    "timeDay": 5066,
+    "timeWeek": 1297,
+    "timeMonth": 351,
+    "timeYear": 69,
+    "dailyMinutesDown": {
+      "2023-08-29": 1
+    }
   },
   {
     "name": "PostgreSQL",
