@@ -68,17 +68,17 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "88.17%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "99.47%",
     "time": 98,
-    "timeDay": 91,
+    "timeDay": 84,
     "timeWeek": 88,
     "timeMonth": 91,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-09-19": 170,
+      "2023-09-19": 164,
       "2023-09-17": 48,
       "2023-09-16": 86,
       "2023-09-15": 61,
@@ -105,7 +105,7 @@
       "2023-08-25": 104,
       "2023-08-24": 239,
       "2023-08-23": 158,
-      "2023-08-22": 69
+      "2023-08-22": 95
     }
   },
   {
@@ -124,9 +124,7 @@
     "timeWeek": 64,
     "timeMonth": 72,
     "timeYear": 71,
-    "dailyMinutesDown": {
-      "2022-09-20": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MySQL Servers",
