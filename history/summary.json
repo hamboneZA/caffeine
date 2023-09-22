@@ -114,18 +114,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "nginx-clusters",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 171,
-    "timeWeek": 100,
-    "timeMonth": 78,
-    "timeYear": 70,
-    "dailyMinutesDown": {}
+    "timeDay": 202,
+    "timeWeek": 119,
+    "timeMonth": 85,
+    "timeYear": 71,
+    "dailyMinutesDown": {
+      "2023-09-22": 1
+    }
   },
   {
     "name": "MySQL Servers",
