@@ -66,12 +66,12 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.68%",
-    "uptimeDay": "93.18%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "99.48%",
     "time": 95,
     "timeDay": 66,
     "timeWeek": 72,
@@ -107,7 +107,7 @@
       "2023-09-27": 17,
       "2023-09-26": 81,
       "2023-09-25": 26,
-      "2023-09-24": 73
+      "2023-09-24": 50
     }
   },
   {
@@ -116,19 +116,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "nginx-clusters",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
     "timeDay": 132,
     "timeWeek": 86,
     "timeMonth": 95,
     "timeYear": 72,
-    "dailyMinutesDown": {
-      "2023-10-23": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MySQL Servers",
