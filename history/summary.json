@@ -115,19 +115,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "nginx-clusters",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 174,
-    "timeWeek": 90,
-    "timeMonth": 96,
-    "timeYear": 73,
+    "timeDay": 132,
+    "timeWeek": 86,
+    "timeMonth": 95,
+    "timeYear": 72,
     "dailyMinutesDown": {
-      "2023-10-23": 1
+      "2023-10-23": 15
     }
   },
   {
