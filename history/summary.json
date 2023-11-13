@@ -65,15 +65,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "98.44%",
+    "status": "degraded",
+    "uptime": "99.70%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "97.56%",
-    "uptimeMonth": "93.74%",
+    "uptimeMonth": "93.79%",
     "uptimeYear": "99.48%",
     "time": 94,
-    "timeDay": 85,
-    "timeWeek": 86,
+    "timeDay": 95,
+    "timeWeek": 87,
     "timeMonth": 77,
     "timeYear": 93,
     "dailyMinutesDown": {
@@ -101,7 +101,7 @@
       "2023-10-20": 115,
       "2023-10-19": 79,
       "2023-10-18": 114,
-      "2023-10-17": 48
+      "2023-10-17": 25
     }
   },
   {
@@ -146,7 +146,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
