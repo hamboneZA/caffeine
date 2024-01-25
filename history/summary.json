@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 69,
-    "timeWeek": 77,
-    "timeMonth": 140,
+    "timeDay": 78,
+    "timeWeek": 75,
+    "timeMonth": 139,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "dovecot",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 222,
-    "timeWeek": 183,
-    "timeMonth": 185,
+    "timeDay": 182,
+    "timeWeek": 200,
+    "timeMonth": 180,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
     "time": 205,
-    "timeDay": 129,
-    "timeWeek": 143,
+    "timeDay": 130,
+    "timeWeek": 144,
     "timeMonth": 162,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -76,8 +76,8 @@
     "uptimeYear": "99.48%",
     "time": 89,
     "timeDay": 7,
-    "timeWeek": 78,
-    "timeMonth": 71,
+    "timeWeek": 79,
+    "timeMonth": 72,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2024-01-09": 28,
@@ -126,8 +126,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
-    "timeDay": 64,
-    "timeWeek": 57,
+    "timeDay": 50,
+    "timeWeek": 56,
     "timeMonth": 65,
     "timeYear": 75,
     "dailyMinutesDown": {}
@@ -144,10 +144,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 69,
-    "timeWeek": 45,
+    "timeDay": 61,
+    "timeWeek": 53,
     "timeMonth": 53,
-    "timeYear": 106,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -162,8 +162,8 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.88%",
     "time": 152,
-    "timeDay": 193,
-    "timeWeek": 131,
+    "timeDay": 195,
+    "timeWeek": 154,
     "timeMonth": 249,
     "timeYear": 159,
     "dailyMinutesDown": {
@@ -175,8 +175,7 @@
       "2023-09-13": 35,
       "2023-04-04": 32,
       "2023-03-28": 36,
-      "2023-03-27": 45,
-      "2023-01-25": 26
+      "2023-03-27": 45
     }
   }
 ]
