@@ -70,9 +70,9 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.48%",
     "time": 86,
     "timeDay": 19,
@@ -80,7 +80,6 @@
     "timeMonth": 58,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-02-22": 6,
       "2024-02-08": 16,
       "2024-01-09": 28,
       "2023-12-29": 19,
@@ -112,7 +111,7 @@
       "2023-10-22": 17,
       "2023-10-21": 130,
       "2023-10-20": 115,
-      "2023-10-19": 60
+      "2023-10-19": 79
     }
   },
   {
@@ -120,18 +119,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "nginx-clusters",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 74,
-    "timeDay": 170,
-    "timeWeek": 109,
-    "timeMonth": 89,
-    "timeYear": 78,
-    "dailyMinutesDown": {}
+    "time": 75,
+    "timeDay": 353,
+    "timeWeek": 163,
+    "timeMonth": 103,
+    "timeYear": 79,
+    "dailyMinutesDown": {
+      "2024-02-22": 1
+    }
   },
   {
     "name": "MySQL Servers",
