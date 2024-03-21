@@ -40,9 +40,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -52,6 +52,7 @@
     "timeMonth": 134,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-01-10": 132,
       "2023-12-15": 31,
       "2023-12-12": 247,
@@ -70,9 +71,9 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 84,
     "timeDay": 41,
@@ -80,7 +81,6 @@
     "timeMonth": 44,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-03-21": 6,
       "2024-02-08": 16,
       "2024-01-09": 28,
       "2023-12-29": 19,
@@ -112,7 +112,7 @@
       "2023-10-22": 17,
       "2023-10-21": 130,
       "2023-10-20": 115,
-      "2023-10-19": 60
+      "2023-10-19": 79
     }
   },
   {
@@ -156,10 +156,10 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 153,
@@ -168,6 +168,7 @@
     "timeMonth": 106,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2024-03-21": 1,
       "2024-01-10": 130,
       "2023-12-15": 31,
       "2023-12-12": 235,
