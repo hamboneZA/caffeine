@@ -13,7 +13,7 @@
     "time": 110,
     "timeDay": 0,
     "timeWeek": 98,
-    "timeMonth": 110,
+    "timeMonth": 112,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 0,
-    "timeWeek": 242,
-    "timeMonth": 181,
+    "timeWeek": 240,
+    "timeMonth": 180,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "99.87%",
     "time": 392,
     "timeDay": 0,
-    "timeWeek": 153,
+    "timeWeek": 157,
     "timeMonth": 139,
     "timeYear": 438,
     "dailyMinutesDown": {
@@ -68,14 +68,14 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "95.61%",
+    "uptimeDay": "95.63%",
     "uptimeWeek": "96.90%",
     "uptimeMonth": "98.83%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.51%",
     "time": 85,
-    "timeDay": 99,
+    "timeDay": 91,
     "timeWeek": 82,
     "timeMonth": 86,
     "timeYear": 85,
@@ -132,7 +132,7 @@
       "2023-10-31": 116,
       "2023-10-30": 188,
       "2023-10-29": 288,
-      "2023-10-28": 20
+      "2023-10-28": 54
     }
   },
   {
@@ -148,8 +148,8 @@
     "uptimeYear": "99.99%",
     "time": 81,
     "timeDay": 0,
-    "timeWeek": 76,
-    "timeMonth": 97,
+    "timeWeek": 79,
+    "timeMonth": 99,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2024-05-01": 50
@@ -168,7 +168,7 @@
     "uptimeYear": "100.00%",
     "time": 91,
     "timeDay": 0,
-    "timeWeek": 63,
+    "timeWeek": 62,
     "timeMonth": 48,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -186,8 +186,8 @@
     "uptimeYear": "99.88%",
     "time": 291,
     "timeDay": 0,
-    "timeWeek": 161,
-    "timeMonth": 123,
+    "timeWeek": 156,
+    "timeMonth": 121,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-05-30": 143,
