@@ -22,19 +22,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "dovecot",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 551,
-    "timeWeek": 306,
-    "timeMonth": 203,
+    "timeDay": 427,
+    "timeWeek": 290,
+    "timeMonth": 202,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-07-10": 0
+      "2024-07-10": 6
     }
   },
   {
