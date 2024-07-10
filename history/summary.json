@@ -24,18 +24,16 @@
     "slug": "dovecot",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 427,
     "timeWeek": 290,
     "timeMonth": 202,
     "timeYear": 276,
-    "dailyMinutesDown": {
-      "2024-07-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IMAP",
@@ -70,17 +68,17 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.80%",
-    "uptimeDay": "96.47%",
+    "uptimeDay": "96.45%",
     "uptimeWeek": "97.07%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 85,
-    "timeDay": 95,
-    "timeWeek": 80,
-    "timeMonth": 86,
-    "timeYear": 85,
+    "timeDay": 208,
+    "timeWeek": 95,
+    "timeMonth": 90,
+    "timeYear": 86,
     "dailyMinutesDown": {
       "2024-07-10": 51,
       "2024-07-09": 61,
@@ -135,7 +133,7 @@
       "2023-11-01": 299,
       "2023-10-31": 116,
       "2023-10-30": 188,
-      "2023-10-29": 175
+      "2023-10-29": 136
     }
   },
   {
