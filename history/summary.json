@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "dovecot",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 197,
-    "timeWeek": 207,
-    "timeMonth": 178,
-    "timeYear": 275,
-    "dailyMinutesDown": {}
+    "time": 248,
+    "timeDay": 551,
+    "timeWeek": 306,
+    "timeMonth": 203,
+    "timeYear": 276,
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "IMAP",
@@ -78,7 +80,7 @@
     "timeDay": 95,
     "timeWeek": 80,
     "timeMonth": 86,
-    "timeYear": 86,
+    "timeYear": 85,
     "dailyMinutesDown": {
       "2024-07-10": 51,
       "2024-07-09": 61,
