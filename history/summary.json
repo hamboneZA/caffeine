@@ -49,7 +49,7 @@
     "time": 391,
     "timeDay": 159,
     "timeWeek": 151,
-    "timeMonth": 147,
+    "timeMonth": 146,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2024-05-30": 145,
@@ -70,17 +70,17 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.54%",
     "time": 87,
     "timeDay": 95,
     "timeWeek": 95,
-    "timeMonth": 103,
+    "timeMonth": 102,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-07-30": 23,
+      "2024-07-30": 17,
       "2024-07-29": 20,
       "2024-07-27": 78,
       "2024-07-26": 28,
@@ -143,7 +143,7 @@
       "2023-11-03": 48,
       "2023-11-02": 184,
       "2023-11-01": 299,
-      "2023-10-31": 58
+      "2023-10-31": 73
     }
   },
   {
@@ -160,7 +160,7 @@
     "time": 81,
     "timeDay": 58,
     "timeWeek": 64,
-    "timeMonth": 72,
+    "timeMonth": 71,
     "timeYear": 83,
     "dailyMinutesDown": {
       "2024-05-01": 50
@@ -198,7 +198,7 @@
     "time": 292,
     "timeDay": 235,
     "timeWeek": 139,
-    "timeMonth": 164,
+    "timeMonth": 165,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2024-05-30": 143,
