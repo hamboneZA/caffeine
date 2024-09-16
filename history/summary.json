@@ -68,16 +68,16 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.78%",
-    "uptimeDay": "97.48%",
+    "uptimeDay": "97.46%",
     "uptimeWeek": "96.81%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "99.43%",
     "time": 88,
-    "timeDay": 86,
-    "timeWeek": 126,
-    "timeMonth": 131,
+    "timeDay": 88,
+    "timeWeek": 125,
+    "timeMonth": 130,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2024-09-16": 37,
@@ -156,8 +156,7 @@
       "2024-01-09": 28,
       "2023-12-29": 19,
       "2023-12-17": 17,
-      "2023-12-16": 16,
-      "2023-12-15": 16
+      "2023-12-16": 16
     }
   },
   {
@@ -167,9 +166,9 @@
     "slug": "nginx-clusters",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 80,
     "timeDay": 212,
@@ -177,7 +176,6 @@
     "timeMonth": 77,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-09-16": 6,
       "2024-05-01": 50
     }
   },
