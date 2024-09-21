@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
-    "status": "degraded",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Dovecot",
@@ -70,17 +72,16 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "93.13%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.42%",
     "time": 88,
-    "timeDay": 85,
-    "timeWeek": 114,
+    "timeDay": 65,
+    "timeWeek": 111,
     "timeMonth": 123,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-09-21": 6,
       "2024-09-20": 125,
       "2024-09-19": 64,
       "2024-09-18": 102,
@@ -148,7 +149,8 @@
       "2024-05-30": 33,
       "2024-05-29": 58,
       "2024-05-21": 17,
-      "2024-05-17": 20
+      "2024-05-17": 20,
+      "2024-05-12": 16
     }
   },
   {
