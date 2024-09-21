@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "91.63%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "75.72%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.93%",
     "time": 109,
     "timeDay": 84,
     "timeWeek": 102,
     "timeMonth": 105,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-09-21": 121
+      "2024-09-21": 350
     }
   },
   {
@@ -70,16 +70,16 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.83%",
+    "status": "degraded",
+    "uptime": "99.78%",
+    "uptimeDay": "96.31%",
     "uptimeWeek": "94.85%",
     "uptimeMonth": "96.87%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 88,
-    "timeDay": 61,
-    "timeWeek": 110,
-    "timeMonth": 123,
+    "timeDay": 64,
+    "timeWeek": 109,
+    "timeMonth": 122,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2024-09-21": 38,
@@ -148,8 +148,7 @@
       "2024-06-03": 15,
       "2024-05-31": 19,
       "2024-05-30": 33,
-      "2024-05-29": 58,
-      "2024-05-21": 17
+      "2024-05-29": 58
     }
   },
   {
