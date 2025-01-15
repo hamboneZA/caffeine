@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "89.00%",
+    "uptime": "88.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.40%",
+    "uptimeYear": "68.38%",
     "time": 108,
     "timeDay": 92,
     "timeWeek": 98,
     "timeMonth": 101,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-01-14": 1412,
+      "2025-01-15": 97,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -183,9 +184,9 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.17%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "99.50%",
     "time": 91,
     "timeDay": 85,
@@ -193,7 +194,7 @@
     "timeMonth": 73,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-01-14": 42,
+      "2025-01-14": 36,
       "2025-01-13": 118,
       "2025-01-12": 39,
       "2025-01-11": 40,
@@ -257,7 +258,7 @@
       "2024-10-26": 35,
       "2024-10-25": 20,
       "2024-10-24": 41,
-      "2024-10-23": 23
+      "2024-10-23": 39
     }
   },
   {
