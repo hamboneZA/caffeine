@@ -1,7 +1,7 @@
 url: https://spamassassin.apache.org/
-status: degraded
+status: up
 code: 200
-responseTime: 75
-lastUpdated: 2025-03-22T20:48:04.164Z
+responseTime: 6
+lastUpdated: 2025-03-22T20:53:53.063Z
 startTime: 2022-03-03T04:45:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
