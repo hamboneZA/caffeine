@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "80.25%",
+    "uptime": "80.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 113,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-09": 596,
+      "2025-05-09": 610,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -274,9 +274,9 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 380,
     "timeDay": 138,
@@ -284,7 +284,6 @@
     "timeMonth": 130,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-05-09": 6,
       "2024-10-11": 44,
       "2024-09-01": 20,
       "2024-05-30": 145
@@ -295,18 +294,19 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "97.31%",
+    "uptimeDay": "97.30%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "95.93%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 97,
-    "timeDay": 110,
-    "timeWeek": 118,
+    "timeDay": 119,
+    "timeWeek": 119,
     "timeMonth": 111,
-    "timeYear": 96,
+    "timeYear": 97,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-05-08": 83,
       "2025-05-07": 103,
       "2025-05-06": 15,
@@ -344,7 +344,7 @@
       "2025-04-02": 100,
       "2025-04-01": 124,
       "2025-03-31": 17,
-      "2025-03-30": 65
+      "2025-03-30": 34
     }
   },
   {
