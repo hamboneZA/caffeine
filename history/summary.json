@@ -9,13 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.31%",
+    "uptimeYear": "30.29%",
     "time": 109,
     "timeDay": 116,
     "timeWeek": 105,
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2025-06-03": 118,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -319,9 +320,9 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "94.91%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "94.92%",
     "uptimeYear": "99.54%",
     "time": 98,
     "timeDay": 78,
@@ -329,7 +330,7 @@
     "timeMonth": 111,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-06-02": 102,
+      "2025-06-02": 96,
       "2025-06-01": 24,
       "2025-05-31": 34,
       "2025-05-30": 16,
@@ -362,7 +363,7 @@
       "2025-05-02": 37,
       "2025-04-30": 76,
       "2025-04-29": 42,
-      "2025-04-28": 22
+      "2025-04-28": 40
     }
   },
   {
