@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.43%",
+    "uptimeYear": "14.42%",
     "time": 109,
     "timeDay": 66,
-    "timeWeek": 93,
+    "timeWeek": 86,
     "timeMonth": 92,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-07-30": 1400,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -344,7 +344,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 79,
-    "timeWeek": 121,
+    "timeWeek": 114,
     "timeMonth": 129,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -362,7 +362,7 @@
     "uptimeYear": "99.98%",
     "time": 374,
     "timeDay": 126,
-    "timeWeek": 164,
+    "timeWeek": 172,
     "timeMonth": 149,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -378,15 +378,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "77.06%",
+    "uptimeDay": "77.05%",
     "uptimeWeek": "90.35%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "99.42%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "99.43%",
     "time": 101,
-    "timeDay": 128,
-    "timeWeek": 131,
+    "timeDay": 124,
+    "timeWeek": 132,
     "timeMonth": 109,
     "timeYear": 100,
     "dailyMinutesDown": {
@@ -411,7 +411,7 @@
       "2025-07-12": 70,
       "2025-07-11": 38,
       "2025-07-10": 125,
-      "2025-07-09": 230
+      "2025-07-09": 208
     }
   },
   {
