@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "74.50%",
+    "uptime": "74.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 91,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-08-07": 272,
+      "2025-08-07": 303,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -386,15 +386,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "85.42%",
-    "uptimeWeek": "87.70%",
-    "uptimeMonth": "91.92%",
+    "status": "degraded",
+    "uptime": "99.81%",
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 101,
-    "timeDay": 112,
-    "timeWeek": 120,
+    "timeDay": 114,
+    "timeWeek": 121,
     "timeMonth": 114,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -418,8 +418,7 @@
       "2025-07-21": 213,
       "2025-07-20": 40,
       "2025-07-19": 130,
-      "2025-07-18": 131,
-      "2025-07-17": 23
+      "2025-07-18": 131
     }
   },
   {
