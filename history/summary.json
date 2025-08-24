@@ -16,7 +16,7 @@
     "timeMonth": 93,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-08-24": 1233,
+      "2025-08-24": 1255,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -403,14 +403,14 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "78.63%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "92.93%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "78.62%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "93.02%",
+    "uptimeYear": "99.42%",
     "time": 102,
-    "timeDay": 112,
+    "timeDay": 108,
     "timeWeek": 105,
     "timeMonth": 116,
     "timeYear": 101,
@@ -432,7 +432,7 @@
       "2025-08-10": 114,
       "2025-08-09": 262,
       "2025-08-08": 163,
-      "2025-08-07": 63
+      "2025-08-07": 21
     }
   },
   {
