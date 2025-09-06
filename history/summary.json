@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "72.75%",
+    "uptime": "72.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 92,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-09-06": 501,
+      "2025-09-06": 515,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -415,15 +415,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "82.70%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "82.69%",
+    "uptimeWeek": "87.69%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.44%",
     "time": 101,
-    "timeDay": 108,
-    "timeWeek": 103,
+    "timeDay": 107,
+    "timeWeek": 102,
     "timeMonth": 104,
     "timeYear": 100,
     "dailyMinutesDown": {
@@ -441,7 +441,7 @@
       "2025-08-26": 199,
       "2025-08-25": 289,
       "2025-08-24": 333,
-      "2025-08-23": 38
+      "2025-08-23": 21
     }
   },
   {
