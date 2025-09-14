@@ -12,11 +12,11 @@
     "uptimeYear": "1.83%",
     "time": 106,
     "timeDay": 78,
-    "timeWeek": 91,
+    "timeWeek": 93,
     "timeMonth": 88,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-09-14": 1395,
+      "2025-09-14": 1406,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -390,8 +390,8 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 83,
-    "timeWeek": 113,
-    "timeMonth": 144,
+    "timeWeek": 124,
+    "timeMonth": 146,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -408,8 +408,8 @@
     "uptimeYear": "99.98%",
     "time": 191,
     "timeDay": 2584,
-    "timeWeek": 942,
-    "timeMonth": 340,
+    "timeWeek": 1047,
+    "timeMonth": 347,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2025-07-26": 32,
@@ -423,11 +423,11 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "83.69%",
+    "uptimeDay": "83.67%",
     "uptimeWeek": "79.41%",
-    "uptimeMonth": "93.14%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.43%",
     "time": 100,
     "timeDay": 71,
@@ -446,8 +446,7 @@
       "2025-09-06": 178,
       "2025-09-05": 257,
       "2025-09-04": 238,
-      "2025-09-03": 166,
-      "2025-09-02": 17
+      "2025-09-03": 166
     }
   },
   {
@@ -464,7 +463,7 @@
     "time": 73,
     "timeDay": 40,
     "timeWeek": 46,
-    "timeMonth": 56,
+    "timeMonth": 57,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2025-05-06": 18,
@@ -485,7 +484,7 @@
     "time": 40,
     "timeDay": 19,
     "timeWeek": 26,
-    "timeMonth": 31,
+    "timeMonth": 32,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2025-06-20": 31
@@ -505,7 +504,7 @@
     "time": 175,
     "timeDay": 169,
     "timeWeek": 117,
-    "timeMonth": 118,
+    "timeMonth": 115,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-06-14": 17,
