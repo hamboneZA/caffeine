@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.60%",
+    "uptimeYear": "1.59%",
     "time": 106,
     "timeDay": 78,
     "timeWeek": 93,
     "timeMonth": 88,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-09-15": 1182,
+      "2025-09-15": 1220,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -424,14 +424,14 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "83.61%",
+    "uptimeDay": "83.60%",
     "uptimeWeek": "81.33%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "99.42%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "99.43%",
     "time": 100,
-    "timeDay": 86,
+    "timeDay": 88,
     "timeWeek": 88,
     "timeMonth": 97,
     "timeYear": 99,
@@ -448,7 +448,7 @@
       "2025-09-06": 178,
       "2025-09-05": 257,
       "2025-09-04": 238,
-      "2025-09-03": 34
+      "2025-09-03": 0
     }
   },
   {
@@ -458,9 +458,9 @@
     "slug": "nginx-clusters",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 74,
     "timeDay": 209,
@@ -468,7 +468,6 @@
     "timeMonth": 71,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2025-09-15": 6,
       "2025-05-06": 18,
       "2024-11-26": 26
     }
