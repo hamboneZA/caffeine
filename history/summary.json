@@ -16,7 +16,7 @@
     "timeMonth": 94,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-10-10": 253,
+      "2025-10-10": 296,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -409,7 +409,7 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 200,
@@ -432,17 +432,17 @@
     "slug": "clam-av",
     "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "82.09%",
-    "uptimeWeek": "81.17%",
-    "uptimeMonth": "92.28%",
+    "uptimeDay": "81.77%",
+    "uptimeWeek": "80.98%",
+    "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 98,
-    "timeDay": 97,
+    "timeDay": 93,
     "timeWeek": 103,
     "timeMonth": 92,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-10-10": 89,
+      "2025-10-10": 109,
       "2025-10-09": 370,
       "2025-10-08": 464,
       "2025-10-07": 235,
@@ -453,7 +453,7 @@
       "2025-10-02": 269,
       "2025-10-01": 511,
       "2025-09-30": 422,
-      "2025-09-29": 172
+      "2025-09-29": 143
     }
   },
   {
@@ -511,7 +511,7 @@
     "uptimeYear": "99.98%",
     "time": 180,
     "timeDay": 154,
-    "timeWeek": 136,
+    "timeWeek": 133,
     "timeMonth": 185,
     "timeYear": 191,
     "dailyMinutesDown": {
