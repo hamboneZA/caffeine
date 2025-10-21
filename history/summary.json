@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "70.29%",
+    "uptime": "70.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 95,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-10-21": 359,
+      "2025-10-21": 432,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -429,15 +429,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "86.80%",
+    "uptimeDay": "86.79%",
     "uptimeWeek": "81.29%",
-    "uptimeMonth": "93.18%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.43%",
     "time": 97,
-    "timeDay": 83,
-    "timeWeek": 88,
+    "timeDay": 88,
+    "timeWeek": 89,
     "timeMonth": 94,
     "timeYear": 98,
     "dailyMinutesDown": {
@@ -453,7 +453,7 @@
       "2025-10-12": 71,
       "2025-10-11": 311,
       "2025-10-10": 359,
-      "2025-10-09": 67
+      "2025-10-09": 52
     }
   },
   {
@@ -463,9 +463,9 @@
     "slug": "nginx-clusters",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 163,
     "timeDay": 2198,
@@ -473,7 +473,6 @@
     "timeMonth": 994,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-10-21": 6,
       "2025-10-19": 22,
       "2025-10-18": 53,
       "2025-10-05": 17,
