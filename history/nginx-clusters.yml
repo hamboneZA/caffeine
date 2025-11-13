@@ -1,7 +1,7 @@
 url: https://www.google.com
-status: degraded
+status: up
 code: 200
-responseTime: 1206
-lastUpdated: 2025-11-13T03:39:02.522Z
+responseTime: 52
+lastUpdated: 2025-11-13T04:00:37.927Z
 startTime: 2022-03-03T04:45:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
