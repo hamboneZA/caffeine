@@ -11,12 +11,12 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 69,
-    "timeWeek": 248,
+    "timeDay": 0,
+    "timeWeek": 271,
     "timeMonth": 510,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-12-07": 1397,
+      "2025-12-07": 1430,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 54,
-    "timeWeek": 129,
+    "timeDay": 0,
+    "timeWeek": 120,
     "timeMonth": 153,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -413,8 +413,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 200,
-    "timeDay": 127,
-    "timeWeek": 114,
+    "timeDay": 0,
+    "timeWeek": 118,
     "timeMonth": 132,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -429,15 +429,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "66.95%",
-    "uptimeWeek": "71.36%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "68.35%",
+    "uptimeWeek": "71.63%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "99.37%",
     "time": 99,
-    "timeDay": 96,
-    "timeWeek": 102,
+    "timeDay": 97,
+    "timeWeek": 103,
     "timeMonth": 105,
     "timeYear": 100,
     "dailyMinutesDown": {
@@ -449,7 +449,7 @@
       "2025-12-02": 314,
       "2025-12-01": 554,
       "2025-11-30": 353,
-      "2025-11-29": 179
+      "2025-11-29": 115
     }
   },
   {
@@ -465,7 +465,7 @@
     "uptimeYear": "99.84%",
     "time": 414,
     "timeDay": 1335,
-    "timeWeek": 927,
+    "timeWeek": 964,
     "timeMonth": 814,
     "timeYear": 510,
     "dailyMinutesDown": {
@@ -513,7 +513,7 @@
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 0,
-    "timeWeek": 41,
+    "timeWeek": 40,
     "timeMonth": 38,
     "timeYear": 32,
     "dailyMinutesDown": {
@@ -533,7 +533,7 @@
     "uptimeYear": "99.99%",
     "time": 178,
     "timeDay": 0,
-    "timeWeek": 116,
+    "timeWeek": 131,
     "timeMonth": 119,
     "timeYear": 164,
     "dailyMinutesDown": {
