@@ -16,7 +16,7 @@
     "timeMonth": 146,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-01-14": 109,
+      "2026-01-14": 130,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
@@ -431,7 +431,7 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "71.08%",
+    "uptimeDay": "72.52%",
     "uptimeWeek": "66.76%",
     "uptimeMonth": "89.21%",
     "uptimeYear": "99.10%",
