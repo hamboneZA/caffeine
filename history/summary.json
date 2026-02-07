@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "64.97%",
+    "uptime": "64.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 113,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-02-06": 1409,
+      "2026-02-07": 149,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -379,8 +380,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -409,12 +409,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.61%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.94%",
     "time": 234,
     "timeDay": 65,
-    "timeWeek": 218,
+    "timeWeek": 122,
     "timeMonth": 687,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -434,17 +434,17 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "70.06%",
-    "uptimeWeek": "71.28%",
-    "uptimeMonth": "88.67%",
-    "uptimeYear": "99.06%",
+    "uptimeDay": "78.07%",
+    "uptimeWeek": "71.85%",
+    "uptimeMonth": "88.64%",
+    "uptimeYear": "99.05%",
     "time": 101,
-    "timeDay": 86,
-    "timeWeek": 121,
+    "timeDay": 101,
+    "timeWeek": 122,
     "timeMonth": 99,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-02-06": 430,
+      "2026-02-06": 427,
       "2026-02-05": 531,
       "2026-02-04": 462,
       "2026-02-03": 397,
@@ -457,7 +457,7 @@
       "2026-01-27": 284,
       "2026-01-26": 417,
       "2026-01-25": 252,
-      "2026-01-24": 118
+      "2026-01-24": 135
     }
   },
   {
@@ -554,12 +554,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.61%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.94%",
     "time": 183,
     "timeDay": 98,
-    "timeWeek": 175,
+    "timeWeek": 131,
     "timeMonth": 225,
     "timeYear": 171,
     "dailyMinutesDown": {
