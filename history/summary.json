@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 131,
-    "timeDay": 0,
-    "timeWeek": 124,
-    "timeMonth": 120,
+    "timeDay": 80,
+    "timeWeek": 123,
+    "timeMonth": 119,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-02-15": 1407,
+      "2026-02-16": 160,
+      "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -379,8 +380,7 @@
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
-      "2025-02-17": 1440,
-      "2025-02-16": 1440
+      "2025-02-17": 1440
     }
   },
   {
@@ -396,7 +396,7 @@
     "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 370,
-    "timeWeek": 191,
+    "timeWeek": 202,
     "timeMonth": 166,
     "timeYear": 139,
     "dailyMinutesDown": {}
@@ -414,7 +414,7 @@
     "uptimeYear": "99.94%",
     "time": 233,
     "timeDay": 97,
-    "timeWeek": 112,
+    "timeWeek": 114,
     "timeMonth": 677,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -434,14 +434,14 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "63.34%",
+    "uptimeDay": "74.93%",
     "uptimeWeek": "72.85%",
     "uptimeMonth": "86.79%",
     "uptimeYear": "98.90%",
     "time": 102,
-    "timeDay": 114,
-    "timeWeek": 126,
-    "timeMonth": 106,
+    "timeDay": 110,
+    "timeWeek": 127,
+    "timeMonth": 107,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2026-02-15": 522,
@@ -474,7 +474,7 @@
     "uptimeYear": "99.72%",
     "time": 451,
     "timeDay": 57,
-    "timeWeek": 140,
+    "timeWeek": 151,
     "timeMonth": 388,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -542,7 +542,7 @@
     "uptimeYear": "99.99%",
     "time": 35,
     "timeDay": 53,
-    "timeWeek": 42,
+    "timeWeek": 46,
     "timeMonth": 38,
     "timeYear": 32,
     "dailyMinutesDown": {
@@ -562,7 +562,7 @@
     "uptimeYear": "99.94%",
     "time": 183,
     "timeDay": 138,
-    "timeWeek": 106,
+    "timeWeek": 116,
     "timeMonth": 227,
     "timeYear": 170,
     "dailyMinutesDown": {
