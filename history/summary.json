@@ -11,12 +11,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 132,
-    "timeDay": 151,
-    "timeWeek": 104,
-    "timeMonth": 132,
+    "timeDay": 105,
+    "timeWeek": 106,
+    "timeMonth": 133,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-03-08": 1396,
+      "2026-03-09": 0,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -379,8 +380,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 238,
-    "timeWeek": 190,
-    "timeMonth": 185,
+    "timeDay": 195,
+    "timeWeek": 206,
+    "timeMonth": 188,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 219,
-    "timeDay": 98,
-    "timeWeek": 132,
-    "timeMonth": 121,
+    "timeDay": 52,
+    "timeWeek": 124,
+    "timeMonth": 120,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2026-01-31": 141,
@@ -432,18 +432,19 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.77%",
-    "uptimeDay": "78.72%",
+    "uptimeDay": "78.70%",
     "uptimeWeek": "71.96%",
-    "uptimeMonth": "88.70%",
-    "uptimeYear": "99.06%",
+    "uptimeMonth": "88.96%",
+    "uptimeYear": "99.08%",
     "time": 101,
     "timeDay": 93,
-    "timeWeek": 104,
-    "timeMonth": 110,
+    "timeWeek": 106,
+    "timeMonth": 111,
     "timeYear": 102,
     "dailyMinutesDown": {
+      "2026-03-09": 0,
       "2026-03-08": 307,
       "2026-03-07": 300,
       "2026-03-06": 368,
@@ -456,8 +457,7 @@
       "2026-02-27": 256,
       "2026-02-26": 287,
       "2026-02-25": 353,
-      "2026-02-24": 367,
-      "2026-02-23": 2
+      "2026-02-24": 252
     }
   },
   {
@@ -472,10 +472,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.70%",
     "time": 456,
-    "timeDay": 81,
+    "timeDay": 48,
     "timeWeek": 56,
     "timeMonth": 191,
-    "timeYear": 556,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2026-02-23": 29,
       "2026-02-22": 26,
@@ -545,9 +545,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 34,
-    "timeDay": 74,
-    "timeWeek": 44,
-    "timeMonth": 41,
+    "timeDay": 52,
+    "timeWeek": 50,
+    "timeMonth": 42,
     "timeYear": 33,
     "dailyMinutesDown": {
       "2025-06-20": 31
@@ -565,9 +565,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 182,
-    "timeDay": 146,
-    "timeWeek": 111,
-    "timeMonth": 110,
+    "timeDay": 155,
+    "timeWeek": 129,
+    "timeMonth": 114,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-01-31": 141,
