@@ -16,7 +16,8 @@
     "timeMonth": 135,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-03-21": 1422,
+      "2026-03-22": 76,
+      "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -379,8 +380,7 @@
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
-      "2025-03-23": 1440,
-      "2025-03-22": 1440
+      "2025-03-23": 1440
     }
   },
   {
@@ -432,19 +432,20 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.69%",
-    "uptimeDay": "64.68%",
-    "uptimeWeek": "64.97%",
-    "uptimeMonth": "84.81%",
-    "uptimeYear": "98.73%",
+    "uptimeDay": "71.33%",
+    "uptimeWeek": "65.11%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "98.74%",
     "time": 102,
-    "timeDay": 132,
+    "timeDay": 113,
     "timeWeek": 120,
     "timeMonth": 109,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2026-03-21": 504,
+      "2026-03-22": 0,
+      "2026-03-21": 489,
       "2026-03-20": 358,
       "2026-03-19": 675,
       "2026-03-18": 550,
