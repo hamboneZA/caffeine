@@ -13,10 +13,11 @@
     "time": 133,
     "timeDay": 91,
     "timeWeek": 105,
-    "timeMonth": 128,
+    "timeMonth": 129,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-03-23": 1412,
+      "2026-03-24": 155,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -379,8 +380,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -397,7 +397,7 @@
     "time": 145,
     "timeDay": 192,
     "timeWeek": 218,
-    "timeMonth": 188,
+    "timeMonth": 182,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -415,7 +415,7 @@
     "time": 218,
     "timeDay": 95,
     "timeWeek": 149,
-    "timeMonth": 114,
+    "timeMonth": 113,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2026-01-31": 141,
@@ -433,18 +433,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "99.71%",
-    "uptimeDay": "62.14%",
-    "uptimeWeek": "63.08%",
-    "uptimeMonth": "85.76%",
-    "uptimeYear": "98.81%",
+    "uptime": "99.70%",
+    "uptimeDay": "50.88%",
+    "uptimeWeek": "62.82%",
+    "uptimeMonth": "85.34%",
+    "uptimeYear": "98.78%",
     "time": 102,
-    "timeDay": 138,
-    "timeWeek": 123,
+    "timeDay": 147,
+    "timeWeek": 120,
     "timeMonth": 111,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2026-03-23": 523,
+      "2026-03-24": 156,
+      "2026-03-23": 551,
       "2026-03-22": 531,
       "2026-03-21": 489,
       "2026-03-20": 358,
@@ -473,7 +474,7 @@
     "time": 456,
     "timeDay": 57,
     "timeWeek": 56,
-    "timeMonth": 85,
+    "timeMonth": 83,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2026-02-23": 29,
@@ -546,7 +547,7 @@
     "time": 34,
     "timeDay": 51,
     "timeWeek": 57,
-    "timeMonth": 44,
+    "timeMonth": 43,
     "timeYear": 34,
     "dailyMinutesDown": {
       "2025-06-20": 31
@@ -566,7 +567,7 @@
     "time": 161,
     "timeDay": 29,
     "timeWeek": 64,
-    "timeMonth": 101,
+    "timeMonth": 104,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2026-01-31": 141,
