@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "61.87%",
+    "uptime": "61.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 119,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-04-19": 1435,
+      "2026-04-20": 209,
+      "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -379,8 +380,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   },
   {
@@ -436,12 +436,12 @@
     "slug": "clam-av",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "75.79%",
+    "uptimeDay": "76.47%",
     "uptimeWeek": "72.29%",
     "uptimeMonth": "81.02%",
     "uptimeYear": "98.42%",
     "time": 103,
-    "timeDay": 127,
+    "timeDay": 136,
     "timeWeek": 124,
     "timeMonth": 119,
     "timeYear": 102,
@@ -566,7 +566,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
