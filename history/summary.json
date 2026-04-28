@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "61.53%",
+    "uptime": "61.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 106,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-04-28": 286,
+      "2026-04-28": 927,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -434,15 +434,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "71.77%",
-    "uptimeWeek": "74.76%",
-    "uptimeMonth": "79.85%",
-    "uptimeYear": "98.32%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "76.77%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "98.33%",
     "time": 103,
-    "timeDay": 116,
-    "timeWeek": 111,
+    "timeDay": 136,
+    "timeWeek": 115,
     "timeMonth": 116,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -468,7 +468,7 @@
       "2026-04-09": 575,
       "2026-04-08": 399,
       "2026-04-07": 417,
-      "2026-04-06": 51
+      "2026-04-06": 18
     }
   },
   {
