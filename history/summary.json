@@ -16,7 +16,7 @@
     "timeMonth": 84,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-05-26": 90,
+      "2026-05-26": 242,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -411,11 +411,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.37%",
-    "uptimeDay": "76.20%",
+    "uptime": "99.36%",
+    "uptimeDay": "65.65%",
     "uptimeWeek": "63.38%",
-    "uptimeMonth": "72.19%",
-    "uptimeYear": "97.59%",
+    "uptimeMonth": "71.84%",
+    "uptimeYear": "97.57%",
     "time": 232,
     "timeDay": 302,
     "timeWeek": 279,
@@ -451,7 +451,7 @@
       "2026-05-23": 548,
       "2026-05-24": 683,
       "2026-05-25": 342,
-      "2026-05-26": 1
+      "2026-05-26": 153
     }
   },
   {
@@ -460,11 +460,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "98.31%",
+    "uptime": "98.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.61%",
-    "uptimeMonth": "25.84%",
-    "uptimeYear": "92.85%",
+    "uptimeMonth": "25.49%",
+    "uptimeYear": "92.82%",
     "time": 102,
     "timeDay": 12,
     "timeWeek": 18,
@@ -513,7 +513,7 @@
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1097,
-      "2026-05-26": 90,
+      "2026-05-26": 242,
       "2026-05-25": 1440
     }
   },
@@ -620,7 +620,7 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "76.26%",
-    "uptimeWeek": "67.84%",
+    "uptimeWeek": "69.35%",
     "uptimeMonth": "77.10%",
     "uptimeYear": "98.01%",
     "time": 195,
