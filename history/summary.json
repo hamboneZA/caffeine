@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "60.33%",
+    "uptime": "60.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 81,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-05-28": 748,
+      "2026-05-28": 997,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -410,12 +410,12 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
-    "uptime": "99.34%",
-    "uptimeDay": "60.43%",
-    "uptimeWeek": "65.39%",
-    "uptimeMonth": "69.03%",
-    "uptimeYear": "97.33%",
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "43.23%",
+    "uptimeWeek": "62.93%",
+    "uptimeMonth": "68.47%",
+    "uptimeYear": "97.28%",
     "time": 235,
     "timeDay": 294,
     "timeWeek": 286,
@@ -453,7 +453,7 @@
       "2026-05-25": 342,
       "2026-05-26": 313,
       "2026-05-27": 816,
-      "2026-05-28": 254
+      "2026-05-28": 501
     }
   },
   {
@@ -462,15 +462,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "98.16%",
+    "uptime": "98.15%",
     "uptimeDay": "0.81%",
     "uptimeWeek": "0.73%",
-    "uptimeMonth": "19.52%",
-    "uptimeYear": "92.20%",
+    "uptimeMonth": "19.12%",
+    "uptimeYear": "92.15%",
     "time": 102,
     "timeDay": 12,
     "timeWeek": 14,
-    "timeMonth": 80,
+    "timeMonth": 78,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-13": 318,
@@ -518,7 +518,7 @@
       "2026-05-27": 1428,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
-      "2026-05-28": 748
+      "2026-05-28": 997
     }
   },
   {
@@ -621,15 +621,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.43%",
-    "uptimeDay": "46.47%",
-    "uptimeWeek": "70.97%",
-    "uptimeMonth": "73.81%",
-    "uptimeYear": "97.73%",
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "29.29%",
+    "uptimeWeek": "68.52%",
+    "uptimeMonth": "73.24%",
+    "uptimeYear": "97.69%",
     "time": 187,
-    "timeDay": 305,
-    "timeWeek": 296,
+    "timeDay": 297,
+    "timeWeek": 294,
     "timeMonth": 273,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -663,7 +663,7 @@
       "2026-05-25": 342,
       "2026-05-26": 65,
       "2026-05-27": 922,
-      "2026-05-28": 456
+      "2026-05-28": 703
     }
   }
 ]
