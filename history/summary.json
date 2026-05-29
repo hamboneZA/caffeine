@@ -14,9 +14,9 @@
     "timeDay": 69,
     "timeWeek": 67,
     "timeMonth": 81,
-    "timeYear": 137,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-05-29": 1261,
+      "2026-05-29": 1431,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -398,7 +398,7 @@
     "timeDay": 67,
     "timeWeek": 133,
     "timeMonth": 217,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-07": 103,
@@ -410,14 +410,14 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "55.87%",
-    "uptimeWeek": "61.31%",
-    "uptimeMonth": "67.02%",
+    "status": "degraded",
+    "uptime": "99.31%",
+    "uptimeDay": "55.83%",
+    "uptimeWeek": "61.84%",
+    "uptimeMonth": "67.01%",
     "uptimeYear": "97.16%",
     "time": 236,
-    "timeDay": 280,
+    "timeDay": 287,
     "timeWeek": 287,
     "timeMonth": 281,
     "timeYear": 252,
@@ -454,7 +454,7 @@
       "2026-05-26": 313,
       "2026-05-27": 816,
       "2026-05-28": 501,
-      "2026-05-29": 635
+      "2026-05-29": 636
     }
   },
   {
@@ -466,8 +466,8 @@
     "uptime": "98.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.73%",
-    "uptimeMonth": "16.07%",
-    "uptimeYear": "91.83%",
+    "uptimeMonth": "15.68%",
+    "uptimeYear": "91.79%",
     "time": 102,
     "timeDay": 24,
     "timeWeek": 15,
@@ -519,7 +519,7 @@
       "2026-05-27": 1428,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
-      "2026-05-29": 1261,
+      "2026-05-29": 1432,
       "2026-05-28": 1440
     }
   },
@@ -538,7 +538,7 @@
     "timeDay": 71,
     "timeWeek": 68,
     "timeMonth": 71,
-    "timeYear": 553,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2025-10-05": 17,
       "2025-10-18": 53,
@@ -623,16 +623,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "56.65%",
-    "uptimeWeek": "67.73%",
-    "uptimeMonth": "71.82%",
+    "uptimeDay": "62.67%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "71.81%",
     "uptimeYear": "97.57%",
-    "time": 188,
-    "timeDay": 258,
-    "timeWeek": 283,
-    "timeMonth": 273,
+    "time": 189,
+    "timeDay": 286,
+    "timeWeek": 284,
+    "timeMonth": 274,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-06-14": 17,
@@ -666,7 +666,7 @@
       "2026-05-26": 65,
       "2026-05-27": 922,
       "2026-05-28": 791,
-      "2026-05-29": 536
+      "2026-05-29": 537
     }
   }
 ]
