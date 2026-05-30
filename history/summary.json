@@ -11,12 +11,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 133,
-    "timeDay": 69,
-    "timeWeek": 67,
-    "timeMonth": 81,
+    "timeDay": 110,
+    "timeWeek": 80,
+    "timeMonth": 83,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-05-29": 1431,
+      "2026-05-30": 9,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -379,8 +380,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.91%",
-    "time": 148,
-    "timeDay": 67,
-    "timeWeek": 133,
-    "timeMonth": 217,
+    "time": 149,
+    "timeDay": 150,
+    "timeWeek": 161,
+    "timeMonth": 218,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2026-05-06": 246,
@@ -412,14 +412,14 @@
     "slug": "imap",
     "status": "degraded",
     "uptime": "99.31%",
-    "uptimeDay": "55.83%",
+    "uptimeDay": "54.60%",
     "uptimeWeek": "61.84%",
-    "uptimeMonth": "67.01%",
+    "uptimeMonth": "66.97%",
     "uptimeYear": "97.16%",
-    "time": 236,
-    "timeDay": 287,
+    "time": 237,
+    "timeDay": 300,
     "timeWeek": 287,
-    "timeMonth": 281,
+    "timeMonth": 283,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-06-14": 17,
@@ -454,7 +454,8 @@
       "2026-05-26": 313,
       "2026-05-27": 816,
       "2026-05-28": 501,
-      "2026-05-29": 636
+      "2026-05-29": 644,
+      "2026-05-30": 9
     }
   },
   {
@@ -466,12 +467,12 @@
     "uptime": "98.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.73%",
-    "uptimeMonth": "15.68%",
+    "uptimeMonth": "15.64%",
     "uptimeYear": "91.79%",
     "time": 102,
-    "timeDay": 24,
-    "timeWeek": 15,
-    "timeMonth": 75,
+    "timeDay": 94,
+    "timeWeek": 30,
+    "timeMonth": 77,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-13": 318,
@@ -519,7 +520,8 @@
       "2026-05-27": 1428,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
-      "2026-05-29": 1432,
+      "2026-05-30": 9,
+      "2026-05-29": 1440,
       "2026-05-28": 1440
     }
   },
@@ -534,11 +536,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 456,
-    "timeDay": 71,
-    "timeWeek": 68,
-    "timeMonth": 71,
-    "timeYear": 554,
+    "time": 457,
+    "timeDay": 95,
+    "timeWeek": 77,
+    "timeMonth": 72,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2025-10-05": 17,
       "2025-10-18": 53,
@@ -607,9 +609,9 @@
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.90%",
     "time": 43,
-    "timeDay": 59,
-    "timeWeek": 108,
-    "timeMonth": 158,
+    "timeDay": 128,
+    "timeWeek": 131,
+    "timeMonth": 161,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2025-06-20": 31,
@@ -623,11 +625,11 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "62.67%",
-    "uptimeWeek": "68.25%",
-    "uptimeMonth": "71.81%",
+    "uptimeDay": "61.50%",
+    "uptimeWeek": "68.23%",
+    "uptimeMonth": "71.78%",
     "uptimeYear": "97.57%",
     "time": 189,
     "timeDay": 286,
@@ -666,7 +668,8 @@
       "2026-05-26": 65,
       "2026-05-27": 922,
       "2026-05-28": 791,
-      "2026-05-29": 537
+      "2026-05-29": 545,
+      "2026-05-30": 9
     }
   }
 ]
