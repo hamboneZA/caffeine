@@ -16,7 +16,7 @@
     "timeMonth": 83,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-05-30": 858,
+      "2026-05-30": 939,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -414,8 +414,8 @@
     "uptime": "99.30%",
     "uptimeDay": "63.49%",
     "uptimeWeek": "61.69%",
-    "uptimeMonth": "66.41%",
-    "uptimeYear": "97.11%",
+    "uptimeMonth": "66.23%",
+    "uptimeYear": "97.10%",
     "time": 238,
     "timeDay": 305,
     "timeWeek": 286,
@@ -455,7 +455,7 @@
       "2026-05-27": 816,
       "2026-05-28": 501,
       "2026-05-29": 644,
-      "2026-05-30": 255
+      "2026-05-30": 335
     }
   },
   {
@@ -464,15 +464,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "98.03%",
+    "uptime": "98.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.73%",
-    "uptimeMonth": "14.74%",
-    "uptimeYear": "91.63%",
+    "uptimeMonth": "14.58%",
+    "uptimeYear": "91.61%",
     "time": 102,
     "timeDay": 164,
     "timeWeek": 30,
-    "timeMonth": 73,
+    "timeMonth": 74,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-13": 318,
@@ -520,7 +520,7 @@
       "2026-05-27": 1428,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
-      "2026-05-30": 859,
+      "2026-05-30": 939,
       "2026-05-29": 1440,
       "2026-05-28": 1440
     }
@@ -625,16 +625,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "69.34%",
-    "uptimeWeek": "67.53%",
+    "uptimeDay": "74.85%",
+    "uptimeWeek": "68.12%",
     "uptimeMonth": "71.40%",
     "uptimeYear": "97.53%",
     "time": 190,
-    "timeDay": 285,
-    "timeWeek": 282,
-    "timeMonth": 275,
+    "timeDay": 296,
+    "timeWeek": 286,
+    "timeMonth": 276,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-06-14": 17,
@@ -669,7 +669,7 @@
       "2026-05-27": 922,
       "2026-05-28": 791,
       "2026-05-29": 545,
-      "2026-05-30": 172
+      "2026-05-30": 173
     }
   }
 ]
