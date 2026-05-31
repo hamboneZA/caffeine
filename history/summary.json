@@ -16,7 +16,7 @@
     "timeMonth": 83,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-05-31": 634,
+      "2026-05-31": 721,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -412,13 +412,13 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "68.32%",
-    "uptimeWeek": "65.25%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "65.86%",
     "uptimeMonth": "65.67%",
     "uptimeYear": "97.05%",
     "time": 239,
     "timeDay": 297,
-    "timeWeek": 289,
+    "timeWeek": 292,
     "timeMonth": 285,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -468,8 +468,8 @@
     "uptime": "97.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.73%",
-    "uptimeMonth": "11.70%",
-    "uptimeYear": "91.40%",
+    "uptimeMonth": "11.50%",
+    "uptimeYear": "91.38%",
     "time": 102,
     "timeDay": 59,
     "timeWeek": 35,
@@ -521,7 +521,7 @@
       "2026-05-27": 1428,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
-      "2026-05-31": 634,
+      "2026-05-31": 721,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440
@@ -627,15 +627,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.39%",
-    "uptimeDay": "63.75%",
-    "uptimeWeek": "66.27%",
-    "uptimeMonth": "70.52%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "66.45%",
+    "uptimeMonth": "70.51%",
     "uptimeYear": "97.46%",
     "time": 191,
-    "timeDay": 262,
-    "timeWeek": 286,
+    "timeDay": 267,
+    "timeWeek": 287,
     "timeMonth": 275,
     "timeYear": 192,
     "dailyMinutesDown": {
@@ -672,7 +672,7 @@
       "2026-05-28": 791,
       "2026-05-29": 545,
       "2026-05-30": 300,
-      "2026-05-31": 262
+      "2026-05-31": 263
     }
   }
 ]
