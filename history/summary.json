@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "60.19%",
+    "uptime": "60.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 83,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-06-01": 118,
+      "2026-06-01": 287,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -469,8 +469,8 @@
     "uptime": "97.94%",
     "uptimeDay": "5.16%",
     "uptimeWeek": "0.85%",
-    "uptimeMonth": "10.51%",
-    "uptimeYear": "91.26%",
+    "uptimeMonth": "10.12%",
+    "uptimeYear": "91.23%",
     "time": 102,
     "timeDay": 14,
     "timeWeek": 34,
@@ -526,7 +526,7 @@
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
-      "2026-06-01": 118
+      "2026-06-01": 287
     }
   },
   {
@@ -631,7 +631,7 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "49.84%",
+    "uptimeDay": "61.60%",
     "uptimeWeek": "63.21%",
     "uptimeMonth": "69.41%",
     "uptimeYear": "97.37%",
