@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "59.92%",
+    "uptime": "59.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 78,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-06-08": 8,
+      "2026-06-08": 279,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -411,13 +411,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.17%",
-    "uptimeDay": "76.40%",
-    "uptimeWeek": "65.09%",
-    "uptimeMonth": "58.87%",
-    "uptimeYear": "96.46%",
+    "uptime": "99.16%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "63.49%",
+    "uptimeMonth": "58.25%",
+    "uptimeYear": "96.40%",
     "time": 242,
-    "timeDay": 292,
+    "timeDay": 293,
     "timeWeek": 286,
     "timeMonth": 291,
     "timeYear": 259,
@@ -454,7 +454,7 @@
       "2026-06-05": 357,
       "2026-06-06": 213,
       "2026-06-07": 333,
-      "2026-06-08": 8
+      "2026-06-08": 279
     }
   },
   {
@@ -463,11 +463,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "97.52%",
+    "uptime": "97.51%",
     "uptimeDay": "5.74%",
     "uptimeWeek": "1.26%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.42%",
+    "uptimeYear": "89.37%",
     "time": 102,
     "timeDay": 13,
     "timeWeek": 30,
@@ -529,7 +529,7 @@
       "2026-06-01": 1440,
       "2026-06-07": 1357,
       "2026-06-06": 1434,
-      "2026-06-08": 8
+      "2026-06-08": 279
     }
   },
   {
@@ -635,12 +635,12 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "85.56%",
-    "uptimeWeek": "75.23%",
+    "uptimeWeek": "76.32%",
     "uptimeMonth": "65.17%",
     "uptimeYear": "96.94%",
     "time": 197,
     "timeDay": 271,
-    "timeWeek": 271,
+    "timeWeek": 275,
     "timeMonth": 281,
     "timeYear": 194,
     "dailyMinutesDown": {
