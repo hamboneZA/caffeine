@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "59.61%",
+    "uptime": "59.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 77,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-06-16": 297,
+      "2026-06-16": 738,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -410,15 +410,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
-    "uptime": "99.09%",
-    "uptimeDay": "65.51%",
-    "uptimeWeek": "57.20%",
-    "uptimeMonth": "59.03%",
-    "uptimeYear": "96.11%",
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "34.87%",
+    "uptimeWeek": "56.35%",
+    "uptimeMonth": "58.81%",
+    "uptimeYear": "96.03%",
     "time": 244,
-    "timeDay": 266,
-    "timeWeek": 285,
+    "timeDay": 234,
+    "timeWeek": 280,
     "timeMonth": 287,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -456,7 +456,7 @@
       "2026-06-13": 548,
       "2026-06-14": 603,
       "2026-06-15": 419,
-      "2026-06-16": 196
+      "2026-06-16": 637
     }
   },
   {
@@ -464,15 +464,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "degraded",
-    "uptime": "97.04%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "2.53%",
+    "status": "up",
+    "uptime": "97.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "2.54%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.29%",
+    "uptimeYear": "87.20%",
     "time": 101,
-    "timeDay": 30,
-    "timeWeek": 22,
+    "timeDay": 20,
+    "timeWeek": 21,
     "timeMonth": 27,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -538,7 +538,7 @@
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-14": 1304,
-      "2026-06-16": 297,
+      "2026-06-16": 738,
       "2026-06-15": 1440
     }
   },
@@ -642,16 +642,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.17%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "65.67%",
-    "uptimeYear": "96.45%",
-    "time": 206,
-    "timeDay": 432,
-    "timeWeek": 282,
-    "timeMonth": 280,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "55.79%",
+    "uptimeWeek": "62.51%",
+    "uptimeMonth": "64.99%",
+    "uptimeYear": "96.37%",
+    "time": 205,
+    "timeDay": 256,
+    "timeWeek": 279,
+    "timeMonth": 279,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-05-10": 297,
@@ -690,7 +690,7 @@
       "2026-06-12": 451,
       "2026-06-13": 363,
       "2026-06-14": 570,
-      "2026-06-16": 196
+      "2026-06-16": 637
     }
   }
 ]
