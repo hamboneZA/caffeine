@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "59.57%",
+    "uptime": "59.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 79,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-06-17": 283,
+      "2026-06-17": 443,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -412,13 +412,13 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "41.42%",
-    "uptimeWeek": "56.10%",
-    "uptimeMonth": "59.57%",
+    "uptimeDay": "52.56%",
+    "uptimeWeek": "56.88%",
+    "uptimeMonth": "59.94%",
     "uptimeYear": "95.99%",
     "time": 244,
     "timeDay": 269,
-    "timeWeek": 286,
+    "timeWeek": 285,
     "timeMonth": 287,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -469,7 +469,7 @@
     "uptimeDay": "21.15%",
     "uptimeWeek": "5.55%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.09%",
+    "uptimeYear": "87.06%",
     "time": 101,
     "timeDay": 29,
     "timeWeek": 24,
@@ -539,7 +539,7 @@
       "2026-06-14": 1304,
       "2026-06-16": 1136,
       "2026-06-15": 1440,
-      "2026-06-17": 283
+      "2026-06-17": 443
     }
   },
   {
@@ -642,15 +642,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.15%",
-    "uptimeDay": "37.45%",
-    "uptimeWeek": "61.01%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "37.52%",
+    "uptimeWeek": "60.21%",
     "uptimeMonth": "64.94%",
-    "uptimeYear": "96.34%",
-    "time": 206,
-    "timeDay": 273,
-    "timeWeek": 281,
+    "uptimeYear": "96.31%",
+    "time": 199,
+    "timeDay": 265,
+    "timeWeek": 274,
     "timeMonth": 280,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -690,7 +690,7 @@
       "2026-06-13": 363,
       "2026-06-14": 570,
       "2026-06-16": 911,
-      "2026-06-17": 173
+      "2026-06-17": 332
     }
   }
 ]
