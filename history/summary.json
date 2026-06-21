@@ -16,7 +16,7 @@
     "timeMonth": 75,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-06-21": 878,
+      "2026-06-21": 977,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -410,16 +410,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "66.44%",
-    "uptimeWeek": "67.49%",
-    "uptimeMonth": "62.27%",
-    "uptimeYear": "96.04%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "66.51%",
+    "uptimeMonth": "62.04%",
+    "uptimeYear": "96.02%",
     "time": 240,
-    "timeDay": 233,
-    "timeWeek": 280,
-    "timeMonth": 287,
+    "timeDay": 212,
+    "timeWeek": 273,
+    "timeMonth": 285,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2026-05-15": 203,
@@ -458,7 +458,7 @@
       "2026-06-18": 500,
       "2026-06-19": 755,
       "2026-06-20": 167,
-      "2026-06-21": 326
+      "2026-06-21": 425
     }
   },
   {
@@ -471,7 +471,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "4.16%",
     "uptimeMonth": "0.26%",
-    "uptimeYear": "85.92%",
+    "uptimeYear": "85.90%",
     "time": 101,
     "timeDay": 29,
     "timeWeek": 24,
@@ -542,7 +542,7 @@
       "2026-06-16": 1136,
       "2026-06-15": 1440,
       "2026-06-17": 1325,
-      "2026-06-21": 878,
+      "2026-06-21": 978,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440
@@ -647,16 +647,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.16%",
-    "uptimeDay": "88.97%",
-    "uptimeWeek": "76.82%",
-    "uptimeMonth": "68.62%",
-    "uptimeYear": "96.36%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "82.13%",
+    "uptimeWeek": "76.03%",
+    "uptimeMonth": "68.39%",
+    "uptimeYear": "96.34%",
     "time": 203,
-    "timeDay": 203,
-    "timeWeek": 285,
-    "timeMonth": 281,
+    "timeDay": 178,
+    "timeWeek": 272,
+    "timeMonth": 280,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-05-13": 175,
@@ -697,7 +697,7 @@
       "2026-06-19": 595,
       "2026-06-18": 45,
       "2026-06-20": 167,
-      "2026-06-21": 1
+      "2026-06-21": 99
     }
   }
 ]
