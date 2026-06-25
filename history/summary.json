@@ -16,7 +16,7 @@
     "timeMonth": 77,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-06-25": 1314,
+      "2026-06-25": 1384,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -412,12 +412,12 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "50.17%",
-    "uptimeWeek": "63.37%",
+    "uptimeDay": "53.74%",
+    "uptimeWeek": "64.06%",
     "uptimeMonth": "61.78%",
     "uptimeYear": "95.99%",
     "time": 244,
-    "timeDay": 273,
+    "timeDay": 264,
     "timeWeek": 252,
     "timeMonth": 280,
     "timeYear": 263,
@@ -468,11 +468,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "96.48%",
+    "uptime": "96.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.65%",
     "uptimeMonth": "0.50%",
-    "uptimeYear": "84.79%",
+    "uptimeYear": "84.77%",
     "time": 101,
     "timeDay": 46,
     "timeWeek": 41,
@@ -550,7 +550,7 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
-      "2026-06-25": 1314
+      "2026-06-25": 1384
     }
   },
   {
@@ -652,17 +652,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.19%",
-    "uptimeDay": "64.97%",
-    "uptimeWeek": "76.57%",
-    "uptimeMonth": "68.46%",
-    "uptimeYear": "96.49%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "63.78%",
+    "uptimeWeek": "75.88%",
+    "uptimeMonth": "68.30%",
+    "uptimeYear": "96.47%",
     "time": 206,
-    "timeDay": 320,
-    "timeWeek": 280,
-    "timeMonth": 279,
-    "timeYear": 208,
+    "timeDay": 287,
+    "timeWeek": 275,
+    "timeMonth": 278,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2026-05-16": 440,
       "2026-05-17": 542,
@@ -703,7 +703,7 @@
       "2026-06-22": 265,
       "2026-06-23": 377,
       "2026-06-24": 342,
-      "2026-06-25": 398
+      "2026-06-25": 467
     }
   }
 ]
