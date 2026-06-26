@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "59.24%",
+    "uptime": "59.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 77,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-06-25": 1384,
+      "2026-06-26": 10,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -379,8 +380,7 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2025-06-27": 1440,
-      "2025-06-26": 1440
+      "2025-06-27": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 152,
-    "timeDay": 72,
-    "timeWeek": 134,
-    "timeMonth": 159,
+    "timeDay": 82,
+    "timeWeek": 129,
+    "timeMonth": 154,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-05-06": 246,
@@ -410,19 +410,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "53.74%",
-    "uptimeWeek": "64.06%",
+    "status": "degraded",
+    "uptime": "99.08%",
+    "uptimeDay": "54.85%",
+    "uptimeWeek": "64.71%",
     "uptimeMonth": "61.78%",
-    "uptimeYear": "95.99%",
+    "uptimeYear": "96.04%",
     "time": 244,
-    "timeDay": 264,
-    "timeWeek": 252,
-    "timeMonth": 280,
-    "timeYear": 263,
+    "timeDay": 273,
+    "timeWeek": 254,
+    "timeMonth": 281,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-05-18": 550,
+      "2026-05-18": 306,
       "2026-05-19": 889,
       "2026-05-20": 168,
       "2026-05-21": 903,
@@ -459,7 +459,8 @@
       "2026-06-22": 442,
       "2026-06-23": 465,
       "2026-06-24": 568,
-      "2026-06-25": 649
+      "2026-06-25": 649,
+      "2026-06-26": 1
     }
   },
   {
@@ -472,11 +473,11 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.65%",
     "uptimeMonth": "0.50%",
-    "uptimeYear": "84.77%",
+    "uptimeYear": "84.76%",
     "time": 101,
-    "timeDay": 46,
-    "timeWeek": 41,
-    "timeMonth": 30,
+    "timeDay": 34,
+    "timeWeek": 39,
+    "timeMonth": 31,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2026-04-15": 220,
@@ -550,7 +551,8 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
-      "2026-06-25": 1384
+      "2026-06-26": 10,
+      "2026-06-25": 1440
     }
   },
   {
@@ -565,8 +567,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 457,
-    "timeDay": 76,
-    "timeWeek": 74,
+    "timeDay": 72,
+    "timeWeek": 73,
     "timeMonth": 78,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -637,9 +639,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 49,
-    "timeDay": 61,
-    "timeWeek": 115,
-    "timeMonth": 131,
+    "timeDay": 48,
+    "timeWeek": 105,
+    "timeMonth": 126,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2026-05-06": 246,
@@ -652,19 +654,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.18%",
-    "uptimeDay": "63.78%",
-    "uptimeWeek": "75.88%",
+    "uptimeDay": "68.27%",
+    "uptimeWeek": "76.42%",
     "uptimeMonth": "68.30%",
-    "uptimeYear": "96.47%",
+    "uptimeYear": "96.48%",
     "time": 206,
-    "timeDay": 287,
-    "timeWeek": 275,
-    "timeMonth": 278,
-    "timeYear": 207,
+    "timeDay": 296,
+    "timeWeek": 276,
+    "timeMonth": 279,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-05-16": 440,
+      "2026-05-16": 391,
       "2026-05-17": 542,
       "2026-05-18": 356,
       "2026-05-19": 892,
@@ -703,7 +705,8 @@
       "2026-06-22": 265,
       "2026-06-23": 377,
       "2026-06-24": 342,
-      "2026-06-25": 467
+      "2026-06-25": 467,
+      "2026-06-26": 1
     }
   }
 ]
