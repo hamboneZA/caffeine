@@ -16,7 +16,7 @@
     "timeMonth": 76,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-06-26": 249,
+      "2026-06-26": 282,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -410,15 +410,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "43.49%",
+    "uptimeDay": "41.22%",
     "uptimeWeek": "64.71%",
     "uptimeMonth": "61.60%",
     "uptimeYear": "95.99%",
-    "time": 244,
-    "timeDay": 285,
-    "timeWeek": 252,
+    "time": 245,
+    "timeDay": 274,
+    "timeWeek": 251,
     "timeMonth": 280,
     "timeYear": 264,
     "dailyMinutesDown": {
@@ -460,7 +460,7 @@
       "2026-06-23": 465,
       "2026-06-24": 568,
       "2026-06-25": 649,
-      "2026-06-26": 240
+      "2026-06-26": 273
     }
   },
   {
@@ -473,7 +473,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.65%",
     "uptimeMonth": "0.50%",
-    "uptimeYear": "84.72%",
+    "uptimeYear": "84.71%",
     "time": 101,
     "timeDay": 21,
     "timeWeek": 41,
@@ -551,7 +551,7 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
-      "2026-06-26": 249,
+      "2026-06-26": 282,
       "2026-06-25": 1440
     }
   },
@@ -654,15 +654,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "57.09%",
-    "uptimeWeek": "75.44%",
-    "uptimeMonth": "67.75%",
-    "uptimeYear": "96.44%",
+    "uptimeDay": "54.87%",
+    "uptimeWeek": "75.45%",
+    "uptimeMonth": "67.68%",
+    "uptimeYear": "96.43%",
     "time": 206,
-    "timeDay": 304,
-    "timeWeek": 271,
+    "timeDay": 291,
+    "timeWeek": 269,
     "timeMonth": 279,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -706,7 +706,7 @@
       "2026-06-23": 377,
       "2026-06-24": 342,
       "2026-06-25": 467,
-      "2026-06-26": 240
+      "2026-06-26": 272
     }
   }
 ]
