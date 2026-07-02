@@ -16,7 +16,7 @@
     "timeMonth": 70,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-07-02": 1122,
+      "2026-07-02": 1206,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -413,8 +413,8 @@
     "status": "up",
     "uptime": "99.11%",
     "uptimeDay": "74.71%",
-    "uptimeWeek": "74.10%",
-    "uptimeMonth": "64.91%",
+    "uptimeWeek": "74.93%",
+    "uptimeMonth": "65.10%",
     "uptimeYear": "96.14%",
     "time": 254,
     "timeDay": 254,
@@ -468,11 +468,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "96.08%",
+    "uptime": "96.07%",
     "uptimeDay": "1.91%",
     "uptimeWeek": "2.37%",
     "uptimeMonth": "4.13%",
-    "uptimeYear": "82.99%",
+    "uptimeYear": "82.98%",
     "time": 101,
     "timeDay": 11,
     "timeWeek": 29,
@@ -556,7 +556,7 @@
       "2026-06-25": 1440,
       "2026-07-01": 1308,
       "2026-06-30": 1440,
-      "2026-07-02": 1115
+      "2026-07-02": 1200
     }
   },
   {
@@ -658,20 +658,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "72.18%",
-    "uptimeWeek": "72.09%",
-    "uptimeMonth": "71.34%",
-    "uptimeYear": "96.60%",
+    "status": "degraded",
+    "uptime": "99.22%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "72.08%",
+    "uptimeMonth": "71.53%",
+    "uptimeYear": "96.61%",
     "time": 221,
-    "timeDay": 211,
-    "timeWeek": 449,
-    "timeMonth": 320,
+    "timeDay": 220,
+    "timeWeek": 448,
+    "timeMonth": 321,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-05-22": 344,
-      "2026-05-21": 43,
+      "2026-05-22": 328,
       "2026-05-23": 296,
       "2026-05-24": 240,
       "2026-05-25": 342,
@@ -711,7 +710,7 @@
       "2026-06-29": 592,
       "2026-06-30": 449,
       "2026-07-01": 444,
-      "2026-07-02": 213
+      "2026-07-02": 214
     }
   }
 ]
