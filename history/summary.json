@@ -16,7 +16,7 @@
     "timeMonth": 67,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-07-06": 1218,
+      "2026-07-06": 1309,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -410,16 +410,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "84.14%",
-    "uptimeWeek": "86.85%",
-    "uptimeMonth": "68.93%",
-    "uptimeYear": "96.37%",
+    "uptimeDay": "80.39%",
+    "uptimeWeek": "86.46%",
+    "uptimeMonth": "68.72%",
+    "uptimeYear": "96.35%",
     "time": 249,
-    "timeDay": 255,
-    "timeWeek": 311,
-    "timeMonth": 283,
+    "timeDay": 215,
+    "timeWeek": 302,
+    "timeMonth": 282,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2026-05-27": 316,
@@ -459,7 +459,7 @@
       "2026-07-02": 356,
       "2026-07-03": 195,
       "2026-07-05": 255,
-      "2026-07-06": 123
+      "2026-07-06": 213
     }
   },
   {
@@ -468,14 +468,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "95.86%",
+    "uptime": "95.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.92%",
+    "uptimeWeek": "4.52%",
     "uptimeMonth": "4.76%",
-    "uptimeYear": "81.98%",
+    "uptimeYear": "81.97%",
     "time": 101,
     "timeDay": 11,
-    "timeWeek": 25,
+    "timeWeek": 26,
     "timeMonth": 26,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -560,7 +560,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1433,
-      "2026-07-06": 1218
+      "2026-07-06": 1309
     }
   },
   {
@@ -666,12 +666,12 @@
     "uptime": "99.21%",
     "uptimeDay": "81.67%",
     "uptimeWeek": "77.65%",
-    "uptimeMonth": "71.83%",
+    "uptimeMonth": "71.91%",
     "uptimeYear": "96.55%",
     "time": 224,
     "timeDay": 271,
     "timeWeek": 433,
-    "timeMonth": 316,
+    "timeMonth": 315,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-05-24": 24,
