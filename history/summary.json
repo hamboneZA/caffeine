@@ -16,7 +16,7 @@
     "timeMonth": 67,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-07-11": 194,
+      "2026-07-11": 216,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -410,19 +410,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "85.78%",
+    "status": "degraded",
+    "uptime": "99.19%",
+    "uptimeDay": "85.74%",
     "uptimeWeek": "83.16%",
-    "uptimeMonth": "72.30%",
-    "uptimeYear": "96.45%",
-    "time": 245,
-    "timeDay": 251,
-    "timeWeek": 239,
-    "timeMonth": 275,
+    "uptimeMonth": "72.35%",
+    "uptimeYear": "96.47%",
+    "time": 246,
+    "timeDay": 279,
+    "timeWeek": 242,
+    "timeMonth": 276,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2026-05-30": 208,
+      "2026-05-30": 69,
       "2026-05-31": 364,
       "2026-06-01": 539,
       "2026-06-03": 554,
@@ -460,7 +460,8 @@
       "2026-07-07": 86,
       "2026-07-08": 612,
       "2026-07-09": 328,
-      "2026-07-10": 205
+      "2026-07-10": 205,
+      "2026-07-11": 1
     }
   },
   {
@@ -561,7 +562,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1433,
-      "2026-07-11": 194,
+      "2026-07-11": 216,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -668,19 +669,18 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.24%",
-    "uptimeDay": "77.78%",
+    "uptimeDay": "79.26%",
     "uptimeWeek": "79.61%",
-    "uptimeMonth": "73.96%",
-    "uptimeYear": "96.67%",
+    "uptimeMonth": "74.01%",
+    "uptimeYear": "96.69%",
     "time": 226,
-    "timeDay": 168,
-    "timeWeek": 245,
+    "timeDay": 217,
+    "timeWeek": 247,
     "timeMonth": 313,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-05-28": 88,
       "2026-05-29": 545,
       "2026-05-30": 300,
       "2026-05-31": 634,
@@ -722,7 +722,8 @@
       "2026-07-07": 269,
       "2026-07-08": 232,
       "2026-07-09": 470,
-      "2026-07-10": 436
+      "2026-07-10": 436,
+      "2026-07-11": 1
     }
   }
 ]
