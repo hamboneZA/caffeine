@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "58.20%",
+    "uptime": "58.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 68,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-07-24": 217,
+      "2026-07-24": 371,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -411,19 +411,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "95.00%",
+    "status": "degraded",
+    "uptime": "99.37%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "80.24%",
-    "uptimeMonth": "79.47%",
-    "uptimeYear": "97.17%",
+    "uptimeMonth": "79.53%",
+    "uptimeYear": "97.22%",
     "time": 257,
-    "timeDay": 290,
-    "timeWeek": 273,
+    "timeDay": 299,
+    "timeWeek": 275,
     "timeMonth": 276,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2026-06-12": 411,
+      "2026-06-12": 161,
       "2026-06-13": 548,
       "2026-06-14": 603,
       "2026-06-15": 419,
@@ -461,7 +461,8 @@
       "2026-07-20": 171,
       "2026-07-21": 375,
       "2026-07-22": 762,
-      "2026-07-23": 72
+      "2026-07-23": 72,
+      "2026-07-24": 0
     }
   },
   {
@@ -474,7 +475,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.18%",
     "uptimeMonth": "3.07%",
-    "uptimeYear": "77.25%",
+    "uptimeYear": "77.22%",
     "time": 101,
     "timeDay": 16,
     "timeWeek": 16,
@@ -579,7 +580,7 @@
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
-      "2026-07-24": 217,
+      "2026-07-24": 371,
       "2026-07-23": 1440
     }
   },
