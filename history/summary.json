@@ -16,7 +16,7 @@
     "timeMonth": 69,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-07-25": 15,
+      "2026-07-25": 193,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -413,14 +413,14 @@
     "slug": "imap",
     "status": "degraded",
     "uptime": "99.37%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "80.27%",
-    "uptimeYear": "97.25%",
+    "uptimeDay": "72.47%",
+    "uptimeWeek": "78.41%",
+    "uptimeMonth": "80.03%",
+    "uptimeYear": "97.22%",
     "time": 258,
     "timeDay": 288,
     "timeWeek": 278,
-    "timeMonth": 276,
+    "timeMonth": 277,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2026-06-13": 344,
@@ -462,7 +462,7 @@
       "2026-07-22": 762,
       "2026-07-23": 72,
       "2026-07-24": 217,
-      "2026-07-25": 0
+      "2026-07-25": 179
     }
   },
   {
@@ -475,7 +475,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.18%",
     "uptimeMonth": "2.69%",
-    "uptimeYear": "77.02%",
+    "uptimeYear": "76.98%",
     "time": 101,
     "timeDay": 16,
     "timeWeek": 15,
@@ -580,7 +580,7 @@
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
-      "2026-07-25": 15,
+      "2026-07-25": 194,
       "2026-07-24": 1440,
       "2026-07-23": 1440
     }
@@ -688,14 +688,14 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "70.52%",
+    "uptimeDay": "82.94%",
     "uptimeWeek": "85.58%",
-    "uptimeMonth": "80.84%",
+    "uptimeMonth": "81.01%",
     "uptimeYear": "96.90%",
     "time": 225,
     "timeDay": 248,
     "timeWeek": 263,
-    "timeMonth": 307,
+    "timeMonth": 308,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2026-06-07": 200,
