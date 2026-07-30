@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "57.96%",
+    "uptime": "57.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 73,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-07-30": 1140,
+      "2026-07-30": 1214,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -411,16 +411,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "73.66%",
-    "uptimeMonth": "80.65%",
-    "uptimeYear": "97.52%",
+    "uptimeDay": "67.84%",
+    "uptimeWeek": "73.54%",
+    "uptimeMonth": "80.48%",
+    "uptimeYear": "97.51%",
     "time": 252,
-    "timeDay": 321,
+    "timeDay": 315,
     "timeWeek": 297,
-    "timeMonth": 281,
+    "timeMonth": 280,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2026-06-21": 522,
@@ -460,7 +460,7 @@
       "2026-07-27": 355,
       "2026-07-28": 496,
       "2026-07-29": 429,
-      "2026-07-30": 327
+      "2026-07-30": 401
     }
   },
   {
@@ -473,7 +473,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.18%",
     "uptimeMonth": "3.20%",
-    "uptimeYear": "75.52%",
+    "uptimeYear": "75.51%",
     "time": 100,
     "timeDay": 12,
     "timeWeek": 21,
@@ -584,7 +584,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-29": 1310,
-      "2026-07-30": 1141
+      "2026-07-30": 1215
     }
   },
   {
@@ -690,12 +690,12 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "74.04%",
+    "uptimeDay": "78.13%",
     "uptimeWeek": "80.92%",
     "uptimeMonth": "83.23%",
     "uptimeYear": "97.30%",
     "time": 229,
-    "timeDay": 314,
+    "timeDay": 339,
     "timeWeek": 276,
     "timeMonth": 309,
     "timeYear": 233,
