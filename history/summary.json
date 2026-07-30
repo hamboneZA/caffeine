@@ -16,7 +16,7 @@
     "timeMonth": 73,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-07-30": 164,
+      "2026-07-30": 233,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -411,17 +411,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "63.17%",
-    "uptimeWeek": "75.18%",
-    "uptimeMonth": "81.02%",
-    "uptimeYear": "97.50%",
+    "uptimeDay": "58.43%",
+    "uptimeWeek": "74.50%",
+    "uptimeMonth": "80.86%",
+    "uptimeYear": "97.49%",
     "time": 251,
-    "timeDay": 316,
+    "timeDay": 314,
     "timeWeek": 296,
     "timeMonth": 280,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2026-06-20": 167,
       "2026-06-19": 106,
@@ -462,7 +462,7 @@
       "2026-07-27": 355,
       "2026-07-28": 496,
       "2026-07-29": 429,
-      "2026-07-30": 164
+      "2026-07-30": 232
     }
   },
   {
@@ -475,7 +475,7 @@
     "uptimeDay": "9.00%",
     "uptimeWeek": "3.18%",
     "uptimeMonth": "3.20%",
-    "uptimeYear": "75.71%",
+    "uptimeYear": "75.69%",
     "time": 100,
     "timeDay": 11,
     "timeWeek": 21,
@@ -586,7 +586,7 @@
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-29": 1310,
-      "2026-07-30": 164
+      "2026-07-30": 233
     }
   },
   {
@@ -691,11 +691,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
     "status": "degraded",
-    "uptime": "99.40%",
-    "uptimeDay": "71.50%",
-    "uptimeWeek": "82.18%",
+    "uptime": "99.39%",
+    "uptimeDay": "66.72%",
+    "uptimeWeek": "81.50%",
     "uptimeMonth": "83.03%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.33%",
     "time": 229,
     "timeDay": 300,
     "timeWeek": 279,
@@ -748,7 +748,7 @@
       "2026-07-28": 342,
       "2026-07-27": 21,
       "2026-07-29": 304,
-      "2026-07-30": 106
+      "2026-07-30": 175
     }
   }
 ]
