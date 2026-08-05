@@ -16,7 +16,7 @@
     "timeMonth": 73,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-08-05": 1252,
+      "2026-08-05": 1319,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -411,15 +411,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
-    "uptime": "99.50%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "83.94%",
-    "uptimeMonth": "80.26%",
-    "uptimeYear": "97.77%",
-    "time": 256,
-    "timeDay": 288,
-    "timeWeek": 294,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "88.47%",
+    "uptimeWeek": "83.28%",
+    "uptimeMonth": "80.14%",
+    "uptimeYear": "97.75%",
+    "time": 257,
+    "timeDay": 287,
+    "timeWeek": 293,
     "timeMonth": 274,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -460,7 +460,7 @@
       "2026-08-01": 419,
       "2026-08-02": 363,
       "2026-08-03": 275,
-      "2026-08-05": 99
+      "2026-08-05": 166
     }
   },
   {
@@ -473,7 +473,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.79%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.93%",
+    "uptimeYear": "73.92%",
     "time": 100,
     "timeDay": 13,
     "timeWeek": 21,
@@ -586,7 +586,7 @@
       "2026-07-30": 1415,
       "2026-07-31": 1412,
       "2026-08-01": 1312,
-      "2026-08-05": 1252,
+      "2026-08-05": 1319,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440
