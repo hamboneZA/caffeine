@@ -16,7 +16,7 @@
     "timeMonth": 73,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-08-07": 101,
+      "2026-08-07": 172,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -413,7 +413,7 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "35.27%",
+    "uptimeDay": "40.16%",
     "uptimeWeek": "78.25%",
     "uptimeMonth": "78.55%",
     "uptimeYear": "97.65%",
@@ -474,7 +474,7 @@
     "uptimeDay": "9.07%",
     "uptimeWeek": "2.99%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.68%",
+    "uptimeYear": "73.67%",
     "time": 100,
     "timeDay": 11,
     "timeWeek": 20,
@@ -592,7 +592,7 @@
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-06": 1309,
-      "2026-08-07": 101
+      "2026-08-07": 172
     }
   },
   {
@@ -699,7 +699,7 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "46.85%",
+    "uptimeDay": "51.72%",
     "uptimeWeek": "78.73%",
     "uptimeMonth": "82.46%",
     "uptimeYear": "97.45%",
