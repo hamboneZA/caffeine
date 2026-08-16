@@ -16,7 +16,7 @@
     "timeMonth": 85,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-16": 720,
+      "2026-08-16": 796,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -411,19 +411,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "78.99%",
-    "uptimeYear": "98.06%",
+    "status": "degraded",
+    "uptime": "99.57%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "82.75%",
+    "uptimeMonth": "78.98%",
+    "uptimeYear": "98.08%",
     "time": 255,
-    "timeDay": 235,
-    "timeWeek": 249,
+    "timeDay": 246,
+    "timeWeek": 250,
     "timeMonth": 270,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-07-12": 237,
+      "2026-07-12": 115,
       "2026-07-13": 179,
       "2026-07-14": 526,
       "2026-07-15": 54,
@@ -469,7 +469,7 @@
     "uptimeDay": "10.77%",
     "uptimeWeek": "7.43%",
     "uptimeMonth": "2.05%",
-    "uptimeYear": "71.59%",
+    "uptimeYear": "71.58%",
     "time": 99,
     "timeDay": 18,
     "timeWeek": 22,
@@ -592,7 +592,7 @@
       "2026-08-13": 1360,
       "2026-08-14": 1271,
       "2026-08-15": 1313,
-      "2026-08-16": 628
+      "2026-08-16": 704
     }
   },
   {
@@ -700,16 +700,17 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "86.83%",
-    "uptimeMonth": "83.19%",
-    "uptimeYear": "98.05%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "83.21%",
+    "uptimeYear": "98.04%",
     "time": 234,
     "timeDay": 276,
     "timeWeek": 262,
     "timeMonth": 266,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2026-07-03": 59,
       "2026-07-04": 248,
       "2026-07-05": 155,
       "2026-07-06": 245,
@@ -752,7 +753,7 @@
       "2026-08-13": 126,
       "2026-08-14": 344,
       "2026-08-15": 86,
-      "2026-08-16": 88
+      "2026-08-16": 78
     }
   }
 ]
