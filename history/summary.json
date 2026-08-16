@@ -16,7 +16,7 @@
     "timeMonth": 85,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-16": 1262,
+      "2026-08-16": 1284,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -411,19 +411,18 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.57%",
-    "uptimeDay": "93.56%",
-    "uptimeWeek": "83.00%",
+    "uptimeDay": "93.54%",
+    "uptimeWeek": "82.99%",
     "uptimeMonth": "78.88%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.09%",
     "time": 256,
-    "timeDay": 268,
-    "timeWeek": 252,
+    "timeDay": 275,
+    "timeWeek": 254,
     "timeMonth": 271,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-07-12": 55,
       "2026-07-13": 179,
       "2026-07-14": 526,
       "2026-07-15": 54,
@@ -591,7 +590,7 @@
       "2026-08-13": 1360,
       "2026-08-14": 1271,
       "2026-08-15": 1313,
-      "2026-08-16": 1155
+      "2026-08-16": 1178
     }
   },
   {
@@ -699,17 +698,17 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "86.72%",
-    "uptimeMonth": "83.09%",
-    "uptimeYear": "98.08%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "86.82%",
+    "uptimeMonth": "83.12%",
+    "uptimeYear": "98.07%",
     "time": 235,
     "timeDay": 263,
     "timeWeek": 261,
     "timeMonth": 266,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-07-04": 56,
+      "2026-07-04": 112,
       "2026-07-05": 155,
       "2026-07-06": 245,
       "2026-07-07": 269,
@@ -751,7 +750,7 @@
       "2026-08-13": 126,
       "2026-08-14": 344,
       "2026-08-15": 86,
-      "2026-08-16": 130
+      "2026-08-16": 120
     }
   }
 ]
