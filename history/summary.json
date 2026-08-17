@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "57.34%",
+    "uptime": "57.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 87,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-17": 311,
+      "2026-08-17": 347,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -413,13 +413,13 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "87.25%",
-    "uptimeWeek": "83.28%",
+    "uptimeDay": "89.18%",
+    "uptimeWeek": "83.37%",
     "uptimeMonth": "78.81%",
     "uptimeYear": "98.17%",
     "time": 257,
-    "timeDay": 255,
-    "timeWeek": 250,
+    "timeDay": 247,
+    "timeWeek": 249,
     "timeMonth": 269,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -468,7 +468,7 @@
     "uptimeDay": "5.30%",
     "uptimeWeek": "6.01%",
     "uptimeMonth": "2.08%",
-    "uptimeYear": "71.42%",
+    "uptimeYear": "71.41%",
     "time": 99,
     "timeDay": 19,
     "timeWeek": 23,
@@ -591,7 +591,7 @@
       "2026-08-14": 1271,
       "2026-08-15": 1313,
       "2026-08-16": 1333,
-      "2026-08-17": 312
+      "2026-08-17": 348
     }
   },
   {
@@ -697,17 +697,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "83.20%",
-    "uptimeYear": "98.09%",
+    "uptimeDay": "90.55%",
+    "uptimeWeek": "86.29%",
+    "uptimeMonth": "83.12%",
+    "uptimeYear": "98.08%",
     "time": 236,
-    "timeDay": 248,
-    "timeWeek": 259,
+    "timeDay": 244,
+    "timeWeek": 257,
     "timeMonth": 265,
-    "timeYear": 240,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2026-07-05": 155,
       "2026-07-06": 245,
@@ -751,7 +751,7 @@
       "2026-08-14": 344,
       "2026-08-15": 86,
       "2026-08-16": 145,
-      "2026-08-17": 1
+      "2026-08-17": 36
     }
   }
 ]
