@@ -16,7 +16,7 @@
     "timeMonth": 86,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-18": 281,
+      "2026-08-18": 306,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -411,16 +411,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "88.49%",
+    "uptimeDay": "88.52%",
     "uptimeWeek": "85.93%",
-    "uptimeMonth": "78.98%",
+    "uptimeMonth": "78.93%",
     "uptimeYear": "98.22%",
     "time": 258,
-    "timeDay": 296,
-    "timeWeek": 259,
-    "timeMonth": 272,
+    "timeDay": 283,
+    "timeWeek": 257,
+    "timeMonth": 271,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2026-07-17": 148,
@@ -453,7 +453,7 @@
       "2026-08-15": 124,
       "2026-08-16": 147,
       "2026-08-17": 133,
-      "2026-08-18": 40
+      "2026-08-18": 64
     }
   },
   {
@@ -463,9 +463,9 @@
     "slug": "clam-av",
     "status": "degraded",
     "uptime": "93.57%",
-    "uptimeDay": "52.26%",
-    "uptimeWeek": "13.48%",
-    "uptimeMonth": "3.80%",
+    "uptimeDay": "53.96%",
+    "uptimeWeek": "13.72%",
+    "uptimeMonth": "3.86%",
     "uptimeYear": "71.29%",
     "time": 99,
     "timeDay": 16,
