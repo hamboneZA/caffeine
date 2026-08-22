@@ -16,7 +16,7 @@
     "timeMonth": 89,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-22": 926,
+      "2026-08-22": 942,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -413,7 +413,7 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "88.96%",
+    "uptimeDay": "90.06%",
     "uptimeWeek": "86.11%",
     "uptimeMonth": "84.83%",
     "uptimeYear": "98.74%",
@@ -454,15 +454,15 @@
     "url": "https://spamassassin.apache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
-    "status": "degraded",
+    "status": "up",
     "uptime": "93.40%",
-    "uptimeDay": "4.85%",
+    "uptimeDay": "4.86%",
     "uptimeWeek": "16.21%",
     "uptimeMonth": "5.43%",
     "uptimeYear": "70.46%",
     "time": 98,
-    "timeDay": 14,
-    "timeWeek": 17,
+    "timeDay": 13,
+    "timeWeek": 16,
     "timeMonth": 19,
     "timeYear": 98,
     "dailyMinutesDown": {
@@ -585,7 +585,7 @@
       "2026-08-19": 1391,
       "2026-08-20": 1322,
       "2026-08-21": 1388,
-      "2026-08-22": 885
+      "2026-08-22": 901
     }
   },
   {
@@ -693,7 +693,7 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "90.69%",
+    "uptimeDay": "91.80%",
     "uptimeWeek": "88.93%",
     "uptimeMonth": "83.90%",
     "uptimeYear": "98.66%",
