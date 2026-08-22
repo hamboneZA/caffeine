@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "57.17%",
+    "uptime": "57.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 89,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-22": 86,
+      "2026-08-22": 273,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -420,7 +420,7 @@
     "time": 254,
     "timeDay": 282,
     "timeWeek": 253,
-    "timeMonth": 265,
+    "timeMonth": 266,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2026-07-27": 68,
@@ -455,11 +455,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "93.42%",
+    "uptime": "93.41%",
     "uptimeDay": "3.54%",
-    "uptimeWeek": "16.44%",
+    "uptimeWeek": "15.96%",
     "uptimeMonth": "5.33%",
-    "uptimeYear": "70.56%",
+    "uptimeYear": "70.53%",
     "time": 98,
     "timeDay": 12,
     "timeWeek": 17,
@@ -585,7 +585,7 @@
       "2026-08-19": 1391,
       "2026-08-20": 1322,
       "2026-08-21": 1388,
-      "2026-08-22": 87
+      "2026-08-22": 273
     }
   },
   {
@@ -691,20 +691,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "83.13%",
-    "uptimeYear": "98.54%",
+    "status": "degraded",
+    "uptime": "99.68%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "83.12%",
+    "uptimeYear": "98.58%",
     "time": 235,
-    "timeDay": 284,
+    "timeDay": 298,
     "timeWeek": 269,
     "timeMonth": 268,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-07-20": 254,
-      "2026-07-19": 3,
+      "2026-07-20": 67,
       "2026-07-22": 448,
       "2026-07-23": 81,
       "2026-07-24": 433,
@@ -735,7 +734,8 @@
       "2026-08-18": 215,
       "2026-08-19": 219,
       "2026-08-20": 111,
-      "2026-08-21": 176
+      "2026-08-21": 176,
+      "2026-08-22": 1
     }
   }
 ]
