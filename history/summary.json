@@ -16,7 +16,7 @@
     "timeMonth": 90,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-23": 1320,
+      "2026-08-23": 1342,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -458,7 +458,7 @@
     "uptimeDay": "3.43%",
     "uptimeWeek": "15.14%",
     "uptimeMonth": "5.53%",
-    "uptimeYear": "70.17%",
+    "uptimeYear": "70.16%",
     "time": 98,
     "timeDay": 18,
     "timeWeek": 16,
@@ -584,7 +584,7 @@
       "2026-08-20": 1322,
       "2026-08-21": 1388,
       "2026-08-22": 1386,
-      "2026-08-23": 1271
+      "2026-08-23": 1293
     }
   },
   {
@@ -690,14 +690,14 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "85.18%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "88.89%",
+    "uptimeMonth": "85.13%",
     "uptimeYear": "98.76%",
     "time": 236,
-    "timeDay": 245,
+    "timeDay": 247,
     "timeWeek": 261,
     "timeMonth": 265,
     "timeYear": 242,
@@ -731,7 +731,7 @@
       "2026-08-20": 111,
       "2026-08-21": 176,
       "2026-08-22": 132,
-      "2026-08-23": 99
+      "2026-08-23": 120
     }
   }
 ]
