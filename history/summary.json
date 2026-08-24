@@ -16,7 +16,7 @@
     "timeMonth": 93,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-24": 717,
+      "2026-08-24": 851,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -413,12 +413,12 @@
     "slug": "imap",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "89.27%",
+    "uptimeDay": "89.31%",
     "uptimeWeek": "86.39%",
     "uptimeMonth": "86.21%",
     "uptimeYear": "98.85%",
     "time": 257,
-    "timeDay": 286,
+    "timeDay": 281,
     "timeWeek": 256,
     "timeMonth": 264,
     "timeYear": 272,
@@ -454,11 +454,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "93.31%",
+    "uptime": "93.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "15.14%",
     "uptimeMonth": "5.53%",
-    "uptimeYear": "70.01%",
+    "uptimeYear": "69.98%",
     "time": 98,
     "timeDay": 36,
     "timeWeek": 16,
@@ -585,7 +585,7 @@
       "2026-08-21": 1388,
       "2026-08-22": 1386,
       "2026-08-23": 1391,
-      "2026-08-24": 717
+      "2026-08-24": 851
     }
   },
   {
@@ -691,19 +691,18 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "84.13%",
-    "uptimeWeek": "87.92%",
-    "uptimeMonth": "85.00%",
-    "uptimeYear": "98.75%",
+    "status": "degraded",
+    "uptime": "99.73%",
+    "uptimeDay": "84.06%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "85.47%",
+    "uptimeYear": "98.79%",
     "time": 237,
-    "timeDay": 295,
-    "timeWeek": 263,
+    "timeDay": 302,
+    "timeWeek": 264,
     "timeMonth": 265,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2026-07-26": 208,
       "2026-07-28": 342,
       "2026-07-27": 21,
       "2026-07-29": 304,
@@ -732,7 +731,7 @@
       "2026-08-21": 176,
       "2026-08-22": 132,
       "2026-08-23": 120,
-      "2026-08-24": 190
+      "2026-08-24": 191
     }
   }
 ]
