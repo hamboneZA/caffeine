@@ -16,7 +16,7 @@
     "timeMonth": 93,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-24": 158,
+      "2026-08-24": 264,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "dovecot",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -454,13 +454,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "93.33%",
-    "uptimeDay": "3.43%",
+    "uptime": "93.32%",
+    "uptimeDay": "1.59%",
     "uptimeWeek": "15.14%",
     "uptimeMonth": "5.53%",
-    "uptimeYear": "70.12%",
+    "uptimeYear": "70.10%",
     "time": 98,
-    "timeDay": 23,
+    "timeDay": 26,
     "timeWeek": 16,
     "timeMonth": 19,
     "timeYear": 98,
@@ -585,7 +585,7 @@
       "2026-08-21": 1388,
       "2026-08-22": 1386,
       "2026-08-23": 1391,
-      "2026-08-24": 158
+      "2026-08-24": 264
     }
   },
   {
@@ -691,17 +691,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.73%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "89.14%",
-    "uptimeMonth": "85.29%",
-    "uptimeYear": "98.77%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "86.05%",
+    "uptimeWeek": "88.09%",
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "98.75%",
     "time": 237,
-    "timeDay": 268,
-    "timeWeek": 265,
+    "timeDay": 264,
+    "timeWeek": 264,
     "timeMonth": 264,
-    "timeYear": 243,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2026-07-25": 60,
       "2026-07-26": 208,
@@ -733,7 +733,7 @@
       "2026-08-21": 176,
       "2026-08-22": 132,
       "2026-08-23": 120,
-      "2026-08-24": 1
+      "2026-08-24": 106
     }
   }
 ]
