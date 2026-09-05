@@ -16,7 +16,7 @@
     "timeMonth": 95,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-09-05": 67,
+      "2026-09-05": 229,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -412,11 +412,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.73%",
-    "uptimeDay": "51.66%",
-    "uptimeWeek": "73.41%",
-    "uptimeMonth": "85.32%",
-    "uptimeYear": "98.78%",
+    "uptime": "99.72%",
+    "uptimeDay": "40.38%",
+    "uptimeWeek": "71.80%",
+    "uptimeMonth": "84.95%",
+    "uptimeYear": "98.75%",
     "time": 263,
     "timeDay": 287,
     "timeWeek": 285,
@@ -448,7 +448,7 @@
       "2026-09-02": 276,
       "2026-09-03": 305,
       "2026-09-04": 667,
-      "2026-09-05": 29
+      "2026-09-05": 192
     }
   },
   {
@@ -457,11 +457,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "92.75%",
+    "uptime": "92.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.38%",
+    "uptimeWeek": "6.77%",
     "uptimeMonth": "7.74%",
-    "uptimeYear": "67.27%",
+    "uptimeYear": "67.24%",
     "time": 98,
     "timeDay": 13,
     "timeWeek": 42,
@@ -596,7 +596,7 @@
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-09-03": 1197,
-      "2026-09-05": 67,
+      "2026-09-05": 230,
       "2026-09-04": 1440
     }
   },
@@ -704,11 +704,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
     "status": "degraded",
-    "uptime": "99.70%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "78.26%",
+    "uptime": "99.69%",
+    "uptimeDay": "42.38%",
+    "uptimeWeek": "76.65%",
     "uptimeMonth": "83.80%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.60%",
     "time": 236,
     "timeDay": 281,
     "timeWeek": 267,
@@ -747,7 +747,7 @@
       "2026-09-01": 159,
       "2026-09-04": 715,
       "2026-09-03": 28,
-      "2026-09-05": 1
+      "2026-09-05": 163
     }
   }
 ]
