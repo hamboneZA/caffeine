@@ -16,7 +16,7 @@
     "timeMonth": 96,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-09-07": 318,
+      "2026-09-07": 623,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -411,15 +411,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
-    "uptime": "99.71%",
-    "uptimeDay": "91.97%",
-    "uptimeWeek": "75.86%",
-    "uptimeMonth": "84.10%",
-    "uptimeYear": "98.68%",
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "70.78%",
+    "uptimeWeek": "73.18%",
+    "uptimeMonth": "83.41%",
+    "uptimeYear": "98.62%",
     "time": 262,
-    "timeDay": 310,
-    "timeWeek": 279,
+    "timeDay": 267,
+    "timeWeek": 272,
     "timeMonth": 258,
     "timeYear": 274,
     "dailyMinutesDown": {
@@ -449,7 +449,7 @@
       "2026-09-04": 667,
       "2026-09-05": 640,
       "2026-09-06": 115,
-      "2026-09-07": 0
+      "2026-09-07": 306
     }
   },
   {
@@ -458,11 +458,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "92.63%",
+    "uptime": "92.62%",
     "uptimeDay": "7.39%",
     "uptimeWeek": "3.63%",
     "uptimeMonth": "7.64%",
-    "uptimeYear": "66.72%",
+    "uptimeYear": "66.67%",
     "time": 98,
     "timeDay": 40,
     "timeWeek": 50,
@@ -600,7 +600,7 @@
       "2026-09-06": 1334,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
-      "2026-09-07": 318
+      "2026-09-07": 624
     }
   },
   {
@@ -709,13 +709,13 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "85.85%",
-    "uptimeWeek": "75.65%",
-    "uptimeMonth": "84.63%",
+    "uptimeWeek": "75.99%",
+    "uptimeMonth": "85.08%",
     "uptimeYear": "98.55%",
     "time": 236,
     "timeDay": 245,
-    "timeWeek": 268,
-    "timeMonth": 263,
+    "timeWeek": 267,
+    "timeMonth": 264,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-08-05": 92,
