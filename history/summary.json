@@ -16,7 +16,7 @@
     "timeMonth": 98,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-09-09": 64,
+      "2026-09-09": 241,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -413,13 +413,13 @@
     "slug": "imap",
     "status": "degraded",
     "uptime": "99.69%",
-    "uptimeDay": "75.63%",
-    "uptimeWeek": "72.34%",
-    "uptimeMonth": "83.44%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "63.36%",
+    "uptimeWeek": "72.32%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "98.59%",
     "time": 263,
     "timeDay": 363,
-    "timeWeek": 278,
+    "timeWeek": 275,
     "timeMonth": 260,
     "timeYear": 275,
     "dailyMinutesDown": {
@@ -450,7 +450,7 @@
       "2026-09-06": 115,
       "2026-09-07": 416,
       "2026-09-08": 355,
-      "2026-09-09": 16
+      "2026-09-09": 192
     }
   },
   {
@@ -461,12 +461,12 @@
     "status": "degraded",
     "uptime": "92.54%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.10%",
+    "uptimeWeek": "5.08%",
     "uptimeMonth": "7.34%",
-    "uptimeYear": "66.27%",
+    "uptimeYear": "66.24%",
     "time": 98,
     "timeDay": 23,
-    "timeWeek": 47,
+    "timeWeek": 39,
     "timeMonth": 23,
     "timeYear": 97,
     "dailyMinutesDown": {
@@ -601,7 +601,7 @@
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-07": 1278,
-      "2026-09-09": 65,
+      "2026-09-09": 241,
       "2026-09-08": 1440
     }
   },
@@ -710,13 +710,13 @@
     "slug": "postgre-sql",
     "status": "degraded",
     "uptime": "99.69%",
-    "uptimeDay": "57.32%",
-    "uptimeWeek": "74.44%",
-    "uptimeMonth": "83.72%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "45.03%",
+    "uptimeWeek": "74.42%",
+    "uptimeMonth": "83.51%",
+    "uptimeYear": "98.58%",
     "time": 236,
     "timeDay": 282,
-    "timeWeek": 269,
+    "timeWeek": 268,
     "timeMonth": 263,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -752,7 +752,7 @@
       "2026-09-06": 204,
       "2026-09-08": 619,
       "2026-09-07": 109,
-      "2026-09-09": 16
+      "2026-09-09": 193
     }
   }
 ]
