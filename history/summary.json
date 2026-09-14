@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "56.35%",
+    "uptime": "56.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 92,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-09-14": 1092,
+      "2026-09-14": 1307,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -412,17 +412,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
-    "uptime": "99.65%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "79.33%",
-    "uptimeMonth": "81.80%",
-    "uptimeYear": "98.41%",
-    "time": 257,
-    "timeDay": 426,
-    "timeWeek": 272,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "85.07%",
+    "uptimeWeek": "77.20%",
+    "uptimeMonth": "81.31%",
+    "uptimeYear": "98.37%",
+    "time": 264,
+    "timeDay": 337,
+    "timeWeek": 271,
     "timeMonth": 260,
-    "timeYear": 275,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2026-08-13": 326,
       "2026-08-12": 8,
@@ -455,7 +455,7 @@
       "2026-09-11": 210,
       "2026-09-12": 118,
       "2026-09-13": 18,
-      "2026-09-14": 0
+      "2026-09-14": 215
     }
   },
   {
@@ -464,14 +464,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "92.24%",
+    "uptime": "92.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.89%",
+    "uptimeWeek": "1.50%",
     "uptimeMonth": "6.42%",
-    "uptimeYear": "64.79%",
+    "uptimeYear": "64.75%",
     "time": 98,
     "timeDay": 0,
-    "timeWeek": 29,
+    "timeWeek": 31,
     "timeMonth": 23,
     "timeYear": 98,
     "dailyMinutesDown": {
@@ -612,7 +612,7 @@
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
-      "2026-09-14": 1092
+      "2026-09-14": 1308
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "99.62%",
     "uptimeDay": "50.14%",
     "uptimeWeek": "73.21%",
-    "uptimeMonth": "82.24%",
+    "uptimeMonth": "82.31%",
     "uptimeYear": "98.29%",
     "time": 237,
     "timeDay": 299,
