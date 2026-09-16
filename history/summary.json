@@ -16,7 +16,7 @@
     "timeMonth": 90,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-09-16": 95,
+      "2026-09-16": 252,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -414,10 +414,10 @@
     "slug": "imap",
     "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "89.02%",
     "uptimeWeek": "81.56%",
-    "uptimeMonth": "81.43%",
-    "uptimeYear": "98.38%",
+    "uptimeMonth": "81.07%",
+    "uptimeYear": "98.35%",
     "time": 258,
     "timeDay": 321,
     "timeWeek": 264,
@@ -456,7 +456,7 @@
       "2026-09-13": 18,
       "2026-09-14": 215,
       "2026-09-15": 71,
-      "2026-09-16": 1
+      "2026-09-16": 158
     }
   },
   {
@@ -465,11 +465,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "92.17%",
+    "uptime": "92.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.27%",
     "uptimeMonth": "6.08%",
-    "uptimeYear": "64.44%",
+    "uptimeYear": "64.41%",
     "time": 98,
     "timeDay": 34,
     "timeWeek": 35,
@@ -613,7 +613,7 @@
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
-      "2026-09-16": 95,
+      "2026-09-16": 253,
       "2026-09-15": 1440,
       "2026-09-14": 1440
     }
@@ -725,8 +725,8 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "98.12%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "82.34%",
+    "uptimeWeek": "81.49%",
+    "uptimeMonth": "82.45%",
     "uptimeYear": "98.29%",
     "time": 238,
     "timeDay": 294,
