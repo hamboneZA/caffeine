@@ -16,7 +16,7 @@
     "timeMonth": 86,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-09-21": 256,
+      "2026-09-21": 383,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
@@ -413,15 +413,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.61%",
-    "uptimeDay": "70.60%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "80.90%",
-    "uptimeYear": "98.20%",
+    "uptime": "99.60%",
+    "uptimeDay": "61.84%",
+    "uptimeWeek": "83.79%",
+    "uptimeMonth": "80.68%",
+    "uptimeYear": "98.18%",
     "time": 259,
     "timeDay": 314,
     "timeWeek": 276,
-    "timeMonth": 268,
+    "timeMonth": 267,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2026-08-15": 79,
@@ -459,7 +459,7 @@
       "2026-09-18": 268,
       "2026-09-19": 32,
       "2026-09-20": 242,
-      "2026-09-21": 181
+      "2026-09-21": 307
     }
   },
   {
@@ -472,7 +472,7 @@
     "uptimeDay": "9.44%",
     "uptimeWeek": "9.85%",
     "uptimeMonth": "4.97%",
-    "uptimeYear": "63.28%",
+    "uptimeYear": "63.25%",
     "time": 98,
     "timeDay": 24,
     "timeWeek": 25,
@@ -623,7 +623,7 @@
       "2026-09-17": 1440,
       "2026-09-20": 1305,
       "2026-09-19": 1440,
-      "2026-09-21": 257
+      "2026-09-21": 383
     }
   },
   {
@@ -730,15 +730,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.58%",
-    "uptimeDay": "66.46%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "81.14%",
-    "uptimeYear": "98.08%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "63.50%",
+    "uptimeWeek": "76.51%",
+    "uptimeMonth": "80.92%",
+    "uptimeYear": "98.06%",
     "time": 240,
-    "timeDay": 383,
-    "timeWeek": 285,
+    "timeDay": 275,
+    "timeWeek": 283,
     "timeMonth": 264,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -780,7 +780,7 @@
       "2026-09-18": 268,
       "2026-09-19": 268,
       "2026-09-20": 277,
-      "2026-09-21": 205
+      "2026-09-21": 331
     }
   }
 ]
