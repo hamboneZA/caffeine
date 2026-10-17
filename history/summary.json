@@ -16,7 +16,7 @@
     "timeMonth": 83,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-10-17": 317,
+      "2026-10-17": 566,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -412,19 +412,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.36%",
-    "uptimeDay": "40.46%",
-    "uptimeWeek": "75.37%",
+    "uptimeDay": "57.66%",
+    "uptimeWeek": "76.39%",
     "uptimeMonth": "82.91%",
-    "uptimeYear": "97.03%",
+    "uptimeYear": "97.04%",
     "time": 263,
-    "timeDay": 285,
-    "timeWeek": 259,
-    "timeMonth": 255,
+    "timeDay": 293,
+    "timeWeek": 267,
+    "timeMonth": 256,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-08-19": 184,
+      "2026-08-19": 154,
       "2026-08-20": 278,
       "2026-08-21": 264,
       "2026-08-22": 134,
@@ -473,7 +473,7 @@
       "2026-10-15": 297,
       "2026-10-14": 18,
       "2026-10-16": 564,
-      "2026-10-17": 309
+      "2026-10-17": 310
     }
   },
   {
@@ -482,11 +482,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "90.58%",
+    "uptime": "90.57%",
     "uptimeDay": "10.16%",
     "uptimeWeek": "4.70%",
     "uptimeMonth": "4.39%",
-    "uptimeYear": "56.39%",
+    "uptimeYear": "56.34%",
     "time": 98,
     "timeDay": 12,
     "timeWeek": 26,
@@ -662,7 +662,7 @@
       "2026-10-04": 1440,
       "2026-10-16": 1294,
       "2026-10-15": 1440,
-      "2026-10-17": 318
+      "2026-10-17": 566
     }
   },
   {
@@ -770,7 +770,7 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "48.87%",
+    "uptimeDay": "66.12%",
     "uptimeWeek": "77.46%",
     "uptimeMonth": "84.00%",
     "uptimeYear": "97.23%",
