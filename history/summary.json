@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "55.26%",
+    "uptime": "55.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 83,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-10-17": 566,
+      "2026-10-17": 784,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -412,15 +412,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
-    "uptime": "99.36%",
-    "uptimeDay": "57.66%",
-    "uptimeWeek": "76.39%",
-    "uptimeMonth": "82.91%",
-    "uptimeYear": "97.04%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "43.13%",
+    "uptimeWeek": "74.23%",
+    "uptimeMonth": "82.41%",
+    "uptimeYear": "97.00%",
     "time": 263,
-    "timeDay": 293,
-    "timeWeek": 267,
+    "timeDay": 303,
+    "timeWeek": 268,
     "timeMonth": 256,
     "timeYear": 268,
     "dailyMinutesDown": {
@@ -473,7 +473,7 @@
       "2026-10-15": 297,
       "2026-10-14": 18,
       "2026-10-16": 564,
-      "2026-10-17": 310
+      "2026-10-17": 527
     }
   },
   {
@@ -482,11 +482,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "90.57%",
+    "uptime": "90.56%",
     "uptimeDay": "10.16%",
     "uptimeWeek": "4.70%",
     "uptimeMonth": "4.39%",
-    "uptimeYear": "56.34%",
+    "uptimeYear": "56.30%",
     "time": 98,
     "timeDay": 12,
     "timeWeek": 26,
@@ -662,7 +662,7 @@
       "2026-10-04": 1440,
       "2026-10-16": 1294,
       "2026-10-15": 1440,
-      "2026-10-17": 566
+      "2026-10-17": 784
     }
   },
   {
@@ -768,19 +768,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.40%",
-    "uptimeDay": "66.12%",
-    "uptimeWeek": "77.46%",
+    "uptimeDay": "66.61%",
+    "uptimeWeek": "77.45%",
     "uptimeMonth": "84.00%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.24%",
     "time": 238,
-    "timeDay": 247,
-    "timeWeek": 243,
-    "timeMonth": 253,
+    "timeDay": 268,
+    "timeWeek": 246,
+    "timeMonth": 254,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-08-17": 83,
+      "2026-08-17": 52,
       "2026-08-18": 215,
       "2026-08-19": 219,
       "2026-08-20": 111,
@@ -826,7 +826,7 @@
       "2026-10-14": 198,
       "2026-10-15": 548,
       "2026-10-16": 502,
-      "2026-10-17": 251
+      "2026-10-17": 252
     }
   }
 ]
