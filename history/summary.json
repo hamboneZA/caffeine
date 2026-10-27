@@ -16,7 +16,7 @@
     "timeMonth": 78,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-10-27": 266,
+      "2026-10-27": 337,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -412,17 +412,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "60.13%",
-    "uptimeWeek": "79.95%",
-    "uptimeMonth": "81.64%",
-    "uptimeYear": "96.52%",
+    "uptimeDay": "57.40%",
+    "uptimeWeek": "79.25%",
+    "uptimeMonth": "81.47%",
+    "uptimeYear": "96.50%",
     "time": 264,
-    "timeDay": 271,
-    "timeWeek": 248,
-    "timeMonth": 260,
-    "timeYear": 269,
+    "timeDay": 212,
+    "timeWeek": 240,
+    "timeMonth": 257,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2026-08-20": 31,
       "2026-08-21": 264,
@@ -481,7 +481,7 @@
       "2026-10-24": 715,
       "2026-10-25": 373,
       "2026-10-26": 352,
-      "2026-10-27": 222
+      "2026-10-27": 293
     }
   },
   {
@@ -490,11 +490,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "90.05%",
+    "uptime": "90.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.32%",
     "uptimeMonth": "2.96%",
-    "uptimeYear": "53.67%",
+    "uptimeYear": "53.66%",
     "time": 99,
     "timeDay": 208,
     "timeWeek": 75,
@@ -680,7 +680,7 @@
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-27": 266
+      "2026-10-27": 338
     }
   },
   {
@@ -783,12 +783,12 @@
     "slug": "postgre-sql",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "57.83%",
+    "uptimeDay": "60.06%",
     "uptimeWeek": "79.72%",
     "uptimeMonth": "85.50%",
     "uptimeYear": "96.75%",
     "time": 241,
-    "timeDay": 268,
+    "timeDay": 255,
     "timeWeek": 236,
     "timeMonth": 240,
     "timeYear": 250,
