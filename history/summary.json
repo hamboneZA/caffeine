@@ -16,7 +16,7 @@
     "timeMonth": 78,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-10-27": 110,
+      "2026-10-27": 266,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -413,11 +413,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.26%",
-    "uptimeDay": "70.92%",
-    "uptimeWeek": "81.49%",
-    "uptimeMonth": "81.99%",
-    "uptimeYear": "96.54%",
+    "uptime": "99.25%",
+    "uptimeDay": "60.13%",
+    "uptimeWeek": "79.95%",
+    "uptimeMonth": "81.64%",
+    "uptimeYear": "96.52%",
     "time": 264,
     "timeDay": 271,
     "timeWeek": 248,
@@ -481,7 +481,7 @@
       "2026-10-24": 715,
       "2026-10-25": 373,
       "2026-10-26": 352,
-      "2026-10-27": 66
+      "2026-10-27": 222
     }
   },
   {
@@ -494,7 +494,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.32%",
     "uptimeMonth": "2.96%",
-    "uptimeYear": "53.70%",
+    "uptimeYear": "53.67%",
     "time": 99,
     "timeDay": 208,
     "timeWeek": 75,
@@ -680,7 +680,7 @@
       "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
-      "2026-10-27": 111
+      "2026-10-27": 266
     }
   },
   {
