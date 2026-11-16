@@ -16,7 +16,7 @@
     "timeMonth": 85,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-11-16": 155,
+      "2026-11-16": 344,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -413,15 +413,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.10%",
-    "uptimeDay": "80.85%",
-    "uptimeWeek": "84.63%",
-    "uptimeMonth": "80.47%",
-    "uptimeYear": "95.75%",
+    "uptime": "99.09%",
+    "uptimeDay": "67.70%",
+    "uptimeWeek": "82.76%",
+    "uptimeMonth": "80.14%",
+    "uptimeYear": "95.71%",
     "time": 268,
     "timeDay": 288,
     "timeWeek": 289,
-    "timeMonth": 266,
+    "timeMonth": 265,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-08-23": 61,
@@ -493,7 +493,7 @@
       "2026-11-13": 189,
       "2026-11-12": 291,
       "2026-11-15": 275,
-      "2026-11-16": 1
+      "2026-11-16": 190
     }
   },
   {
@@ -503,10 +503,10 @@
     "slug": "clam-av",
     "status": "degraded",
     "uptime": "89.07%",
-    "uptimeDay": "30.01%",
+    "uptimeDay": "16.86%",
     "uptimeWeek": "14.30%",
     "uptimeMonth": "1.79%",
-    "uptimeYear": "48.55%",
+    "uptimeYear": "48.51%",
     "time": 98,
     "timeDay": 70,
     "timeWeek": 35,
@@ -711,7 +711,7 @@
       "2026-11-14": 737,
       "2026-11-13": 1427,
       "2026-11-15": 1005,
-      "2026-11-16": 155
+      "2026-11-16": 344
     }
   },
   {
@@ -802,11 +802,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
     "status": "degraded",
-    "uptime": "99.15%",
-    "uptimeDay": "52.34%",
-    "uptimeWeek": "79.15%",
-    "uptimeMonth": "81.61%",
-    "uptimeYear": "95.98%",
+    "uptime": "99.14%",
+    "uptimeDay": "39.19%",
+    "uptimeWeek": "77.27%",
+    "uptimeMonth": "81.28%",
+    "uptimeYear": "95.94%",
     "time": 238,
     "timeDay": 306,
     "timeWeek": 278,
@@ -875,7 +875,7 @@
       "2026-11-11": 475,
       "2026-11-12": 218,
       "2026-11-15": 685,
-      "2026-11-16": 1
+      "2026-11-16": 190
     }
   }
 ]
