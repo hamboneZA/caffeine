@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "54.27%",
+    "uptime": "54.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 90,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-11-17": 441,
+      "2026-11-18": 0,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -379,8 +380,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -412,19 +412,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.09%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "81.77%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "85.67%",
+    "uptimeMonth": "82.26%",
     "uptimeYear": "95.69%",
     "time": 268,
-    "timeDay": 184,
-    "timeWeek": 252,
+    "timeDay": 326,
+    "timeWeek": 260,
     "timeMonth": 261,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-08-23": 61,
+      "2026-08-23": 35,
       "2026-08-24": 144,
       "2026-08-25": 284,
       "2026-08-26": 121,
@@ -493,7 +493,9 @@
       "2026-11-13": 189,
       "2026-11-12": 291,
       "2026-11-15": 275,
-      "2026-11-16": 307
+      "2026-11-16": 307,
+      "2026-11-18": 1,
+      "2026-11-17": 0
     }
   },
   {
@@ -502,11 +504,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "89.01%",
+    "uptime": "88.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "14.30%",
     "uptimeMonth": "1.46%",
-    "uptimeYear": "48.22%",
+    "uptimeYear": "48.03%",
     "time": 98,
     "timeDay": 46,
     "timeWeek": 34,
@@ -711,7 +713,8 @@
       "2026-11-14": 737,
       "2026-11-13": 1427,
       "2026-11-15": 1005,
-      "2026-11-17": 442,
+      "2026-11-18": 1,
+      "2026-11-17": 1440,
       "2026-11-16": 1440
     }
   },
@@ -725,12 +728,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 513,
     "timeDay": 112,
     "timeWeek": 86,
     "timeMonth": 87,
-    "timeYear": 316,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-11-19": 22,
       "2025-11-25": 18,
@@ -801,19 +804,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "82.63%",
-    "uptimeYear": "95.92%",
-    "time": 238,
-    "timeDay": 186,
-    "timeWeek": 267,
-    "timeMonth": 250,
-    "timeYear": 253,
+    "status": "degraded",
+    "uptime": "99.14%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "83.27%",
+    "uptimeMonth": "83.07%",
+    "uptimeYear": "95.93%",
+    "time": 239,
+    "timeDay": 305,
+    "timeWeek": 263,
+    "timeMonth": 252,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2026-08-21": 80,
+      "2026-08-21": 53,
       "2026-08-22": 132,
       "2026-08-23": 120,
       "2026-08-24": 236,
@@ -875,7 +878,8 @@
       "2026-11-11": 475,
       "2026-11-12": 218,
       "2026-11-15": 685,
-      "2026-11-16": 307
+      "2026-11-16": 307,
+      "2026-11-18": 1
     }
   }
 ]
