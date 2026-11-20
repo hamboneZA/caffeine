@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "postfix",
     "status": "degraded",
-    "uptime": "54.19%",
+    "uptime": "54.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -13,10 +13,11 @@
     "time": 123,
     "timeDay": 123,
     "timeWeek": 104,
-    "timeMonth": 93,
-    "timeYear": 134,
+    "timeMonth": 92,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2026-11-19": 1233,
+      "2026-11-20": 112,
+      "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
@@ -379,8 +380,7 @@
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
-      "2025-11-21": 1440,
-      "2025-11-20": 1440
+      "2025-11-21": 1440
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeDay": 81,
     "timeWeek": 198,
     "timeMonth": 199,
-    "timeYear": 173,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-07": 103,
@@ -413,15 +413,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
     "status": "degraded",
-    "uptime": "99.04%",
-    "uptimeDay": "30.93%",
+    "uptime": "99.03%",
+    "uptimeDay": "8.79%",
     "uptimeWeek": "78.04%",
-    "uptimeMonth": "81.39%",
-    "uptimeYear": "95.46%",
+    "uptimeMonth": "80.81%",
+    "uptimeYear": "95.40%",
     "time": 268,
     "timeDay": 317,
     "timeWeek": 238,
-    "timeMonth": 262,
+    "timeMonth": 261,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-08-23": 18,
@@ -496,7 +496,8 @@
       "2026-11-16": 307,
       "2026-11-18": 241,
       "2026-11-17": 0,
-      "2026-11-19": 995
+      "2026-11-20": 112,
+      "2026-11-19": 1201
     }
   },
   {
@@ -505,15 +506,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/spamassassin.apache.org.ico",
     "slug": "clam-av",
     "status": "degraded",
-    "uptime": "88.93%",
-    "uptimeDay": "43.46%",
-    "uptimeWeek": "22.67%",
+    "uptime": "88.91%",
+    "uptimeDay": "34.67%",
+    "uptimeWeek": "20.49%",
     "uptimeMonth": "3.58%",
-    "uptimeYear": "47.74%",
+    "uptimeYear": "47.68%",
     "time": 98,
-    "timeDay": 28,
-    "timeWeek": 30,
-    "timeMonth": 53,
+    "timeDay": 23,
+    "timeWeek": 31,
+    "timeMonth": 52,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2026-05-03": 296,
@@ -716,7 +717,8 @@
       "2026-11-18": 1012,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
-      "2026-11-19": 735
+      "2026-11-19": 941,
+      "2026-11-20": 113
     }
   },
   {
@@ -726,15 +728,15 @@
     "slug": "nginx-clusters",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "91.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.75%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.69%",
     "time": 514,
-    "timeDay": 102,
+    "timeDay": 77,
     "timeWeek": 118,
-    "timeMonth": 98,
-    "timeYear": 299,
+    "timeMonth": 96,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2025-11-25": 18,
       "2025-11-26": 27,
@@ -790,8 +792,8 @@
     "time": 85,
     "timeDay": 64,
     "timeWeek": 165,
-    "timeMonth": 173,
-    "timeYear": 101,
+    "timeMonth": 172,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-07": 103,
@@ -805,16 +807,16 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
-    "uptime": "99.13%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "83.84%",
-    "uptimeYear": "95.88%",
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "77.86%",
+    "uptimeWeek": "84.60%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "95.82%",
     "time": 239,
-    "timeDay": 392,
-    "timeWeek": 262,
-    "timeMonth": 258,
+    "timeDay": 358,
+    "timeWeek": 264,
+    "timeMonth": 257,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2026-08-21": 30,
@@ -881,7 +883,8 @@
       "2026-11-15": 685,
       "2026-11-16": 307,
       "2026-11-18": 241,
-      "2026-11-19": 1
+      "2026-11-20": 112,
+      "2026-11-19": 207
     }
   }
 ]
