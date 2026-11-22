@@ -16,7 +16,7 @@
     "timeMonth": 90,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2026-11-22": 171,
+      "2026-11-22": 213,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -412,15 +412,15 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "imap",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "70.93%",
-    "uptimeMonth": "79.15%",
-    "uptimeYear": "95.27%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "70.52%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "95.26%",
     "time": 270,
-    "timeDay": 281,
-    "timeWeek": 347,
+    "timeDay": 275,
+    "timeWeek": 341,
     "timeMonth": 277,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -498,7 +498,7 @@
       "2026-11-20": 889,
       "2026-11-19": 1201,
       "2026-11-21": 16,
-      "2026-11-22": 1
+      "2026-11-22": 42
     }
   },
   {
@@ -509,7 +509,7 @@
     "status": "degraded",
     "uptime": "88.81%",
     "uptimeDay": "1.15%",
-    "uptimeWeek": "13.50%",
+    "uptimeWeek": "13.08%",
     "uptimeMonth": "3.61%",
     "uptimeYear": "47.13%",
     "time": 98,
@@ -721,7 +721,7 @@
       "2026-11-19": 941,
       "2026-11-21": 1423,
       "2026-11-20": 1440,
-      "2026-11-22": 171
+      "2026-11-22": 213
     }
   },
   {
@@ -810,17 +810,17 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "postgre-sql",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "78.08%",
-    "uptimeMonth": "82.08%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "77.68%",
+    "uptimeMonth": "81.99%",
     "uptimeYear": "95.71%",
     "time": 240,
-    "timeDay": 312,
-    "timeWeek": 293,
+    "timeDay": 297,
+    "timeWeek": 292,
     "timeMonth": 262,
-    "timeYear": 254,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2026-08-22": 80,
       "2026-08-23": 120,
@@ -887,7 +887,7 @@
       "2026-11-18": 241,
       "2026-11-20": 768,
       "2026-11-19": 207,
-      "2026-11-22": 1
+      "2026-11-22": 42
     }
   }
 ]
